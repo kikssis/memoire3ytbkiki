@@ -1,0 +1,547 @@
+﻿true_category,predicted_category,top_1,top_2,top_3,true_in_top3
+Entertainment,Entertainment,Entertainment,People & Blogs,Film & Animation,True
+Education,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Gaming,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Film & Animation,True
+Howto & Style,Film & Animation,Film & Animation,People & Blogs,Entertainment,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Gaming,People & Blogs,People & Blogs,Film & Animation,Entertainment,False
+Education,People & Blogs,People & Blogs,Entertainment,Gaming,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Sports,Sports,Sports,People & Blogs,Entertainment,True
+Sports,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+Entertainment,Sports,Sports,People & Blogs,Gaming,False
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Sports,True
+Film & Animation,People & Blogs,People & Blogs,Entertainment,Film & Animation,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Sports,False
+Sports,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Gaming,Sports,Sports,People & Blogs,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Entertainment,Sports,Sports,People & Blogs,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+Gaming,Sports,Sports,People & Blogs,Entertainment,False
+Howto & Style,People & Blogs,People & Blogs,Sports,Entertainment,False
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+Sports,People & Blogs,People & Blogs,Sports,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+Sports,Sports,Sports,People & Blogs,Entertainment,True
+Sports,People & Blogs,People & Blogs,Sports,Entertainment,True
+Sports,People & Blogs,People & Blogs,Sports,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Sports,People & Blogs,People & Blogs,Sports,Entertainment,True
+Sports,People & Blogs,People & Blogs,Entertainment,Sports,True
+Comedy,People & Blogs,People & Blogs,Sports,Entertainment,False
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Sports,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Gaming,Sports,Sports,People & Blogs,Entertainment,False
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+Sports,People & Blogs,People & Blogs,Comedy,Entertainment,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Sports,People & Blogs,People & Blogs,Sports,Comedy,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Sports,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+Entertainment,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Gaming,People & Blogs,People & Blogs,Sports,Entertainment,False
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Film & Animation,True
+Sports,People & Blogs,People & Blogs,Film & Animation,Gaming,False
+People & Blogs,People & Blogs,People & Blogs,Gaming,Entertainment,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Comedy,Entertainment,True
+Sports,People & Blogs,People & Blogs,Sports,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Sports,True
+Sports,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Sports,Sports,Sports,People & Blogs,Entertainment,True
+Other,Entertainment,Entertainment,People & Blogs,Sports,False
+Film & Animation,Sports,Sports,People & Blogs,Entertainment,False
+Education,People & Blogs,People & Blogs,Sports,Entertainment,False
+People & Blogs,Sports,Sports,Entertainment,People & Blogs,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Sports,True
+Sports,Sports,Sports,People & Blogs,Film & Animation,True
+Entertainment,People & Blogs,People & Blogs,Film & Animation,Entertainment,True
+Entertainment,Sports,Sports,People & Blogs,Entertainment,True
+Sports,Entertainment,Entertainment,People & Blogs,Sports,True
+Sports,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Sports,False
+Entertainment,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+Sports,Sports,Sports,People & Blogs,Entertainment,True
+Sports,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+Sports,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Film & Animation,Entertainment,True
+People & Blogs,Entertainment,Entertainment,Sports,People & Blogs,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Sports,False
+People & Blogs,Entertainment,Entertainment,People & Blogs,Sports,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Sports,False
+Sports,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Pets & Animals,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Sports,People & Blogs,People & Blogs,Entertainment,Comedy,False
+Howto & Style,People & Blogs,People & Blogs,Entertainment,Film & Animation,False
+Sports,Entertainment,Entertainment,People & Blogs,Comedy,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Science & Technology,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Entertainment,Education,Education,People & Blogs,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Sports,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Sports,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Comedy,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Howto & Style,Entertainment,Entertainment,Film & Animation,People & Blogs,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Education,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Howto & Style,False
+Comedy,People & Blogs,People & Blogs,Entertainment,Gaming,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Howto & Style,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Education,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Pets & Animals,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Howto & Style,True
+People & Blogs,People & Blogs,People & Blogs,Gaming,Howto & Style,True
+Howto & Style,Entertainment,Entertainment,People & Blogs,Sports,False
+Entertainment,Entertainment,Entertainment,People & Blogs,Film & Animation,True
+People & Blogs,Film & Animation,Film & Animation,People & Blogs,Entertainment,True
+Comedy,People & Blogs,People & Blogs,Entertainment,Film & Animation,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,Howto & Style,Howto & Style,People & Blogs,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Howto & Style,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Howto & Style,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Howto & Style,Entertainment,Entertainment,Film & Animation,People & Blogs,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,People & Blogs,People & Blogs,Gaming,Comedy,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Howto & Style,True
+People & Blogs,People & Blogs,People & Blogs,Howto & Style,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Gaming,True
+Comedy,People & Blogs,People & Blogs,Entertainment,Gaming,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Film & Animation,People & Blogs,People & Blogs,Entertainment,Howto & Style,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Howto & Style,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Film & Animation,True
+Entertainment,People & Blogs,People & Blogs,Education,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Film & Animation,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Howto & Style,True
+Howto & Style,Entertainment,Entertainment,People & Blogs,Howto & Style,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Pets & Animals,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Pets & Animals,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Film & Animation,True
+Entertainment,Film & Animation,Film & Animation,People & Blogs,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Film & Animation,Entertainment,True
+Sports,People & Blogs,People & Blogs,Entertainment,Education,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Education,True
+Other,People & Blogs,People & Blogs,Education,Entertainment,False
+People & Blogs,People & Blogs,People & Blogs,Education,Entertainment,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Education,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Gaming,True
+Science & Technology,People & Blogs,People & Blogs,Entertainment,Gaming,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Science & Technology,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Film & Animation,Film & Animation,Film & Animation,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+Film & Animation,People & Blogs,People & Blogs,Entertainment,Gaming,False
+People & Blogs,Entertainment,Entertainment,People & Blogs,Sports,True
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+Gaming,Entertainment,Entertainment,People & Blogs,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Science & Technology,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Science & Technology,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Science & Technology,True
+Film & Animation,People & Blogs,People & Blogs,Entertainment,Sports,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Education,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Science & Technology,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Film & Animation,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Sports,False
+Comedy,Entertainment,Entertainment,People & Blogs,Science & Technology,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Science & Technology,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Other,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Comedy,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Science & Technology,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Science & Technology,People & Blogs,People & Blogs,Entertainment,Science & Technology,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Sports,True
+Howto & Style,People & Blogs,People & Blogs,Entertainment,Sports,False
+Entertainment,Entertainment,Entertainment,People & Blogs,Sports,True
+Science & Technology,People & Blogs,People & Blogs,Gaming,Entertainment,False
+Education,People & Blogs,People & Blogs,Entertainment,Gaming,False
+Sports,People & Blogs,People & Blogs,Entertainment,Gaming,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Comedy,False
+Entertainment,Entertainment,Entertainment,People & Blogs,Comedy,True
+People & Blogs,Science & Technology,Science & Technology,Entertainment,People & Blogs,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Science & Technology,True
+Entertainment,Science & Technology,Science & Technology,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Science & Technology,People & Blogs,People & Blogs,Entertainment,Howto & Style,False
+Howto & Style,People & Blogs,People & Blogs,Entertainment,Gaming,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Comedy,True
+People & Blogs,People & Blogs,People & Blogs,Gaming,Sports,True
+People & Blogs,Science & Technology,Science & Technology,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Science & Technology,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,Science & Technology,Science & Technology,Entertainment,People & Blogs,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Science & Technology,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Science & Technology,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Science & Technology,True
+Comedy,Entertainment,Entertainment,People & Blogs,Gaming,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Comedy,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Science & Technology,Entertainment,Entertainment,People & Blogs,Gaming,False
+Howto & Style,People & Blogs,People & Blogs,Entertainment,Sports,False
+Comedy,People & Blogs,People & Blogs,Entertainment,Sports,False
+People & Blogs,People & Blogs,People & Blogs,Education,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Howto & Style,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+News & Politics,People & Blogs,People & Blogs,Entertainment,Education,False
+People & Blogs,People & Blogs,People & Blogs,News & Politics,Entertainment,True
+Other,People & Blogs,People & Blogs,Entertainment,Education,False
+People & Blogs,People & Blogs,People & Blogs,Sports,News & Politics,True
+Science & Technology,People & Blogs,People & Blogs,Entertainment,Comedy,False
+People & Blogs,People & Blogs,People & Blogs,Pets & Animals,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Comedy,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Film & Animation,True
+People & Blogs,Sports,Sports,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,People & Blogs,People & Blogs,News & Politics,Education,True
+People & Blogs,People & Blogs,People & Blogs,Howto & Style,Education,True
+People & Blogs,People & Blogs,People & Blogs,Education,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Education,Entertainment,True
+Film & Animation,Education,Education,People & Blogs,Entertainment,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Howto & Style,People & Blogs,People & Blogs,Entertainment,Film & Animation,False
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Comedy,Entertainment,True
+News & Politics,Entertainment,Entertainment,People & Blogs,Sports,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Entertainment,People & Blogs,People & Blogs,News & Politics,Education,False
+People & Blogs,People & Blogs,People & Blogs,Howto & Style,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Howto & Style,True
+People & Blogs,People & Blogs,People & Blogs,Education,Entertainment,True
+News & Politics,People & Blogs,People & Blogs,Education,Entertainment,False
+Film & Animation,People & Blogs,People & Blogs,Entertainment,Sports,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,Education,Education,Entertainment,People & Blogs,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Howto & Style,People & Blogs,People & Blogs,Sports,Entertainment,False
+Sports,People & Blogs,People & Blogs,Comedy,Entertainment,False
+Entertainment,People & Blogs,People & Blogs,News & Politics,Gaming,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Howto & Style,People & Blogs,People & Blogs,Entertainment,Education,False
+Music,People & Blogs,People & Blogs,Entertainment,Film & Animation,False
+People & Blogs,People & Blogs,People & Blogs,Howto & Style,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,People & Blogs,People & Blogs,Education,News & Politics,True
+People & Blogs,People & Blogs,People & Blogs,Education,Comedy,True
+People & Blogs,Education,Education,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Education,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Pets & Animals,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+News & Politics,People & Blogs,People & Blogs,Entertainment,Education,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Music,People & Blogs,People & Blogs,Entertainment,Howto & Style,False
+Entertainment,People & Blogs,People & Blogs,Education,Entertainment,True
+Music,People & Blogs,People & Blogs,Education,Entertainment,False
+News & Politics,People & Blogs,People & Blogs,Education,Entertainment,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Education,Entertainment,Entertainment,People & Blogs,Education,True
+People & Blogs,People & Blogs,People & Blogs,Howto & Style,Sports,True
+People & Blogs,Science & Technology,Science & Technology,People & Blogs,Comedy,True
+Comedy,People & Blogs,People & Blogs,Entertainment,Film & Animation,False
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Sports,True
+News & Politics,People & Blogs,People & Blogs,Entertainment,Education,False
+Gaming,People & Blogs,People & Blogs,Entertainment,Education,False
+Entertainment,People & Blogs,People & Blogs,Education,Entertainment,True
+Music,People & Blogs,People & Blogs,Education,Entertainment,False
+Education,People & Blogs,People & Blogs,Education,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Science & Technology,True
+People & Blogs,Entertainment,Entertainment,Education,People & Blogs,True
+Entertainment,People & Blogs,People & Blogs,Film & Animation,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Pets & Animals,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,News & Politics,Entertainment,True
+Sports,People & Blogs,People & Blogs,Entertainment,Sports,True
+Film & Animation,People & Blogs,People & Blogs,Entertainment,Music,False
+People & Blogs,Entertainment,Entertainment,Pets & Animals,People & Blogs,True
+News & Politics,People & Blogs,People & Blogs,Entertainment,Howto & Style,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Howto & Style,True
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+Science & Technology,People & Blogs,People & Blogs,Howto & Style,Entertainment,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Pets & Animals,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Howto & Style,People & Blogs,People & Blogs,Entertainment,Sports,False
+Comedy,People & Blogs,People & Blogs,Comedy,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Pets & Animals,False
+Entertainment,People & Blogs,People & Blogs,Entertainment,Film & Animation,True
+Pets & Animals,People & Blogs,People & Blogs,Entertainment,Gaming,False
+Sports,People & Blogs,People & Blogs,Entertainment,Film & Animation,False
+People & Blogs,People & Blogs,People & Blogs,Gaming,Pets & Animals,True
+Howto & Style,People & Blogs,People & Blogs,Entertainment,Howto & Style,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Comedy,True
+People & Blogs,People & Blogs,People & Blogs,Pets & Animals,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Pets & Animals,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Education,People & Blogs,People & Blogs,Music,Entertainment,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Comedy,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Pets & Animals,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Film & Animation,True
+Other,Howto & Style,Howto & Style,People & Blogs,Comedy,False
+People & Blogs,People & Blogs,People & Blogs,Gaming,Sports,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Howto & Style,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Comedy,True
+News & Politics,People & Blogs,People & Blogs,Entertainment,Sports,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Music,True
+People & Blogs,People & Blogs,People & Blogs,Howto & Style,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Sports,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Music,Howto & Style,False
+Gaming,People & Blogs,People & Blogs,Entertainment,Sports,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Other,People & Blogs,People & Blogs,Entertainment,Comedy,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Entertainment,People & Blogs,People & Blogs,Music,Howto & Style,False
+People & Blogs,People & Blogs,People & Blogs,Music,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Comedy,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Howto & Style,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Pets & Animals,People & Blogs,People & Blogs,Education,Music,False
+People & Blogs,Music,Music,People & Blogs,Pets & Animals,True
+People & Blogs,People & Blogs,People & Blogs,Pets & Animals,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Science & Technology,Howto & Style,False
+Education,People & Blogs,People & Blogs,Sports,Music,False
+Science & Technology,People & Blogs,People & Blogs,Entertainment,Education,False
+Music,People & Blogs,People & Blogs,Entertainment,Sports,False
+Comedy,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Science & Technology,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Education,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Comedy,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Music,People & Blogs,People & Blogs,Entertainment,Education,False
+People & Blogs,Music,Music,People & Blogs,Pets & Animals,True
+News & Politics,People & Blogs,People & Blogs,Pets & Animals,Howto & Style,False
+Gaming,People & Blogs,People & Blogs,Science & Technology,Entertainment,False
+People & Blogs,People & Blogs,People & Blogs,Comedy,Entertainment,True
+Education,People & Blogs,People & Blogs,Entertainment,Science & Technology,False
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Sports,People & Blogs,People & Blogs,Gaming,Entertainment,False
+Gaming,Gaming,Gaming,Entertainment,People & Blogs,True
+People & Blogs,Film & Animation,Film & Animation,Entertainment,People & Blogs,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,Entertainment,Entertainment,People & Blogs,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Film & Animation,Gaming,Gaming,People & Blogs,Entertainment,False
+Entertainment,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,Gaming,Gaming,Entertainment,People & Blogs,True
+Entertainment,Entertainment,Entertainment,Film & Animation,People & Blogs,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Comedy,False
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Gaming,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Sports,True
+Gaming,Gaming,Gaming,Entertainment,People & Blogs,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,Gaming,Gaming,Entertainment,People & Blogs,True
+Music,Entertainment,Entertainment,People & Blogs,Gaming,False
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,Gaming,Gaming,Entertainment,People & Blogs,True
+People & Blogs,People & Blogs,People & Blogs,Sports,Entertainment,True
+Gaming,Entertainment,Entertainment,People & Blogs,Sports,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Film & Animation,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Film & Animation,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Film & Animation,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,People & Blogs,People & Blogs,Pets & Animals,Entertainment,False
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Sports,Entertainment,Entertainment,People & Blogs,Gaming,False
+People & Blogs,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Gaming,Gaming,Entertainment,People & Blogs,True
+Gaming,People & Blogs,People & Blogs,Gaming,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Education,True
+People & Blogs,People & Blogs,People & Blogs,Comedy,Entertainment,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,Entertainment,Entertainment,People & Blogs,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Comedy,Gaming,False
+Gaming,People & Blogs,People & Blogs,Entertainment,Sports,False
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Entertainment,Gaming,Gaming,People & Blogs,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,Entertainment,Entertainment,People & Blogs,Gaming,True
+Education,People & Blogs,People & Blogs,Comedy,Entertainment,False
+People & Blogs,Gaming,Gaming,People & Blogs,Entertainment,True
+Gaming,Entertainment,Entertainment,People & Blogs,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+Gaming,Gaming,Gaming,Sports,People & Blogs,True
+People & Blogs,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Entertainment,Gaming,Gaming,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Film & Animation,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Sports,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Film & Animation,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Comedy,True
+Gaming,People & Blogs,People & Blogs,Comedy,Entertainment,False
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Gaming,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,People & Blogs,People & Blogs,Howto & Style,Gaming,True
+Gaming,Entertainment,Entertainment,People & Blogs,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Entertainment,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Film & Animation,Gaming,Gaming,People & Blogs,Entertainment,False
+Gaming,Entertainment,Entertainment,Gaming,People & Blogs,True
+Gaming,Entertainment,Entertainment,People & Blogs,Gaming,True
+Entertainment,Entertainment,Entertainment,Gaming,People & Blogs,True
+Entertainment,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,Gaming,Gaming,Entertainment,People & Blogs,True
+Gaming,Gaming,Gaming,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Gaming,Entertainment,True
+Gaming,People & Blogs,People & Blogs,Entertainment,Gaming,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Sports,Gaming,Gaming,People & Blogs,Entertainment,False
+People & Blogs,Entertainment,Entertainment,People & Blogs,Film & Animation,True
+Howto & Style,Entertainment,Entertainment,People & Blogs,Gaming,False
+People & Blogs,Entertainment,Entertainment,People & Blogs,Music,True
+Gaming,People & Blogs,People & Blogs,Music,Entertainment,False
+Comedy,People & Blogs,People & Blogs,Entertainment,Gaming,False
+Gaming,Entertainment,Entertainment,Gaming,People & Blogs,True
+Entertainment,Gaming,Gaming,People & Blogs,Entertainment,True
+People & Blogs,People & Blogs,People & Blogs,Entertainment,Gaming,True
+Gaming,Entertainment,Entertainment,Gaming,People & Blogs,True
+Gaming,Gaming,Gaming,Entertainment,People & Blogs,True
+People & Blogs,Entertainment,Entertainment,People & Blogs,Gaming,True

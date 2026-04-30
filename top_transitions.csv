@@ -1,0 +1,11 @@
+from,to,prob
+Travel & Events,People & Blogs,0.625
+News & Politics,People & Blogs,0.6086956521739131
+Music,People & Blogs,0.58
+Comedy,People & Blogs,0.5641025641025641
+Autos & Vehicles,People & Blogs,0.5
+Pets & Animals,People & Blogs,0.5
+Science & Technology,People & Blogs,0.4883720930232558
+People & Blogs,People & Blogs,0.45726495726495725
+Education,People & Blogs,0.4444444444444444
+Howto & Style,People & Blogs,0.4444444444444444

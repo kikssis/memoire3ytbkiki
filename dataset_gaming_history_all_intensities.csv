@@ -1,0 +1,676 @@
+﻿session_id,timestamp,condition,history_category,history_intensity,history_video_count,video_id,url,category,depth,total_seen_depth,watch_time,is_sponsored,include_in_prediction,sponsored_skipped_before
+20260429_165439,2026-04-29T16:59:16.265529,gaming_history_1,gaming,1,1,ejdo53bwaBM,https://www.youtube.com/shorts/ejdo53bwaBM,People & Blogs,1,1,1.5,0,1,0
+20260429_165439,2026-04-29T16:59:30.047949,gaming_history_1,gaming,1,1,4tyNiYwBk6w,https://www.youtube.com/shorts/4tyNiYwBk6w,Gaming,2,2,1.5,0,1,0
+20260429_165439,2026-04-29T16:59:41.537891,gaming_history_1,gaming,1,1,US4p5f36oZU,https://www.youtube.com/shorts/US4p5f36oZU,People & Blogs,3,3,1.5,0,1,0
+20260429_165439,2026-04-29T17:00:01.804182,gaming_history_1,gaming,1,1,a7SUIAnlVIU,https://www.youtube.com/shorts/a7SUIAnlVIU,Gaming,4,5,1.5,0,1,1
+20260429_165439,2026-04-29T17:00:11.827578,gaming_history_1,gaming,1,1,2HhTEpUiZwU,https://www.youtube.com/shorts/2HhTEpUiZwU,People & Blogs,5,6,1.5,0,1,1
+20260429_165439,2026-04-29T17:00:22.533933,gaming_history_1,gaming,1,1,9kYTAA_6vhI,https://www.youtube.com/shorts/9kYTAA_6vhI,Entertainment,6,7,1.5,0,1,1
+20260429_165439,2026-04-29T17:00:32.558838,gaming_history_1,gaming,1,1,iOxZ5Yi1u3c,https://www.youtube.com/shorts/iOxZ5Yi1u3c,Gaming,7,8,1.5,0,1,1
+20260429_165439,2026-04-29T17:00:53.167419,gaming_history_1,gaming,1,1,R0zK-BMIyv4,https://www.youtube.com/shorts/R0zK-BMIyv4,People & Blogs,8,10,1.5,0,1,2
+20260429_165439,2026-04-29T17:01:02.847262,gaming_history_1,gaming,1,1,ee6b9n9qcjY,https://www.youtube.com/shorts/ee6b9n9qcjY,Entertainment,9,11,1.5,0,1,2
+20260429_165439,2026-04-29T17:01:23.475440,gaming_history_1,gaming,1,1,Ep9H5MEHlCw,https://www.youtube.com/shorts/Ep9H5MEHlCw,Gaming,10,13,1.5,0,1,3
+20260429_165439,2026-04-29T17:01:33.518475,gaming_history_1,gaming,1,1,Jg1ofgPRKws,https://www.youtube.com/shorts/Jg1ofgPRKws,Entertainment,11,14,1.5,0,1,3
+20260429_165439,2026-04-29T17:01:43.314299,gaming_history_1,gaming,1,1,w66UbmkutfM,https://www.youtube.com/shorts/w66UbmkutfM,People & Blogs,12,15,1.5,0,1,3
+20260429_165439,2026-04-29T17:01:52.959742,gaming_history_1,gaming,1,1,w9HRtMpjZ4A,https://www.youtube.com/shorts/w9HRtMpjZ4A,Entertainment,13,16,1.5,0,1,3
+20260429_165439,2026-04-29T17:02:14.095377,gaming_history_1,gaming,1,1,RMSbEEQGLAg,https://www.youtube.com/shorts/RMSbEEQGLAg,People & Blogs,14,18,1.5,0,1,4
+20260429_165439,2026-04-29T17:02:23.788910,gaming_history_1,gaming,1,1,eYL5b6ebRyU,https://www.youtube.com/shorts/eYL5b6ebRyU,Entertainment,15,19,1.5,0,1,4
+20260429_170231,2026-04-29T17:03:12.834769,gaming_history_1,gaming,1,1,NC_2r8zlBTw,https://www.youtube.com/shorts/NC_2r8zlBTw,Gaming,1,1,1.5,0,1,0
+20260429_170231,2026-04-29T17:03:22.414009,gaming_history_1,gaming,1,1,4PoM9_GW0VY,https://www.youtube.com/shorts/4PoM9_GW0VY,Gaming,2,2,1.5,0,1,0
+20260429_170231,2026-04-29T17:03:32.281075,gaming_history_1,gaming,1,1,JzWa3nYf2mA,https://www.youtube.com/shorts/JzWa3nYf2mA,Gaming,3,3,1.5,0,1,0
+20260429_170231,2026-04-29T17:03:53.213515,gaming_history_1,gaming,1,1,TI5KeQUjGnw,https://www.youtube.com/shorts/TI5KeQUjGnw,Gaming,4,5,1.5,0,1,1
+20260429_170231,2026-04-29T17:04:03.413498,gaming_history_1,gaming,1,1,SAc8AcNDe4s,https://www.youtube.com/shorts/SAc8AcNDe4s,Entertainment,5,6,1.5,0,1,1
+20260429_170231,2026-04-29T17:04:23.277627,gaming_history_1,gaming,1,1,XRAEUGA7xg0,https://www.youtube.com/shorts/XRAEUGA7xg0,People & Blogs,6,8,1.5,0,1,2
+20260429_170231,2026-04-29T17:04:33.538306,gaming_history_1,gaming,1,1,zzeL3eQ7HEA,https://www.youtube.com/shorts/zzeL3eQ7HEA,Entertainment,7,9,1.5,0,1,2
+20260429_170231,2026-04-29T17:04:53.268360,gaming_history_1,gaming,1,1,Y8ULYfYOANg,https://www.youtube.com/shorts/Y8ULYfYOANg,Gaming,8,11,1.5,0,1,3
+20260429_170231,2026-04-29T17:05:03.320887,gaming_history_1,gaming,1,1,gL07f3laU0A,https://www.youtube.com/shorts/gL07f3laU0A,Gaming,9,12,1.5,0,1,3
+20260429_170231,2026-04-29T17:05:12.837178,gaming_history_1,gaming,1,1,tEAJmTWdknY,https://www.youtube.com/shorts/tEAJmTWdknY,People & Blogs,10,13,1.5,0,1,3
+20260429_170231,2026-04-29T17:05:34.078429,gaming_history_1,gaming,1,1,xHVQ8S0sBlI,https://www.youtube.com/shorts/xHVQ8S0sBlI,Entertainment,11,15,1.5,0,1,4
+20260429_170231,2026-04-29T17:05:43.622363,gaming_history_1,gaming,1,1,R0zK-BMIyv4,https://www.youtube.com/shorts/R0zK-BMIyv4,People & Blogs,12,16,1.5,0,1,4
+20260429_170231,2026-04-29T17:05:53.966332,gaming_history_1,gaming,1,1,oTwjc6r-USQ,https://www.youtube.com/shorts/oTwjc6r-USQ,Entertainment,13,17,1.5,0,1,4
+20260429_170231,2026-04-29T17:06:03.848549,gaming_history_1,gaming,1,1,Xb5ivSaEN-s,https://www.youtube.com/shorts/Xb5ivSaEN-s,Sports,14,18,1.5,0,1,4
+20260429_170231,2026-04-29T17:06:24.612425,gaming_history_1,gaming,1,1,Yo4LLBCii3c,https://www.youtube.com/shorts/Yo4LLBCii3c,People & Blogs,15,20,1.5,0,1,5
+20260429_170632,2026-04-29T17:07:16.696070,gaming_history_1,gaming,1,1,NC_2r8zlBTw,https://www.youtube.com/shorts/NC_2r8zlBTw,Gaming,1,1,1.5,0,1,0
+20260429_170632,2026-04-29T17:07:28.716943,gaming_history_1,gaming,1,1,Q-hIfE2uC5c,https://www.youtube.com/shorts/Q-hIfE2uC5c,Gaming,2,2,1.5,0,1,0
+20260429_170632,2026-04-29T17:07:38.567369,gaming_history_1,gaming,1,1,TI5KeQUjGnw,https://www.youtube.com/shorts/TI5KeQUjGnw,Gaming,3,3,1.5,0,1,0
+20260429_170632,2026-04-29T17:07:59.255324,gaming_history_1,gaming,1,1,FBHj-0fPohM,https://www.youtube.com/shorts/FBHj-0fPohM,People & Blogs,4,5,1.5,0,1,1
+20260429_170632,2026-04-29T17:08:13.574065,gaming_history_1,gaming,1,1,S46wD9x-Idk,https://www.youtube.com/shorts/S46wD9x-Idk,People & Blogs,5,6,1.5,0,1,1
+20260429_170632,2026-04-29T17:08:34.780237,gaming_history_1,gaming,1,1,WUw-jAbsrgw,https://www.youtube.com/shorts/WUw-jAbsrgw,Entertainment,6,8,1.5,0,1,2
+20260429_170632,2026-04-29T17:08:47.100456,gaming_history_1,gaming,1,1,0vkuY29IOUA,https://www.youtube.com/shorts/0vkuY29IOUA,Film & Animation,7,9,1.5,0,1,2
+20260429_170632,2026-04-29T17:09:08.748694,gaming_history_1,gaming,1,1,T5OicYjZDQ4,https://www.youtube.com/shorts/T5OicYjZDQ4,Gaming,8,11,1.5,0,1,3
+20260429_170632,2026-04-29T17:09:18.966572,gaming_history_1,gaming,1,1,2wLhV4gKW70,https://www.youtube.com/shorts/2wLhV4gKW70,Entertainment,9,12,1.5,0,1,3
+20260429_170632,2026-04-29T17:09:39.985435,gaming_history_1,gaming,1,1,oTwjc6r-USQ,https://www.youtube.com/shorts/oTwjc6r-USQ,Entertainment,10,14,1.5,0,1,4
+20260429_170632,2026-04-29T17:09:49.803648,gaming_history_1,gaming,1,1,a3ouyCinENA,https://www.youtube.com/shorts/a3ouyCinENA,Gaming,11,15,1.5,0,1,4
+20260429_170632,2026-04-29T17:10:09.619118,gaming_history_1,gaming,1,1,w6MJuuBsIsQ,https://www.youtube.com/shorts/w6MJuuBsIsQ,Gaming,12,17,1.5,0,1,5
+20260429_170632,2026-04-29T17:10:19.575642,gaming_history_1,gaming,1,1,4cZ9NLcBCPQ,https://www.youtube.com/shorts/4cZ9NLcBCPQ,Gaming,13,18,1.5,0,1,5
+20260429_170632,2026-04-29T17:10:40.854122,gaming_history_1,gaming,1,1,BulJ_vRV6PE,https://www.youtube.com/shorts/BulJ_vRV6PE,Entertainment,14,20,1.5,0,1,6
+20260429_170632,2026-04-29T17:10:55.126664,gaming_history_1,gaming,1,1,NfjZy0gGUS4,https://www.youtube.com/shorts/NfjZy0gGUS4,Gaming,15,21,1.5,0,1,6
+20260429_171102,2026-04-29T17:11:43.796774,gaming_history_1,gaming,1,1,NC_2r8zlBTw,https://www.youtube.com/shorts/NC_2r8zlBTw,Gaming,1,1,1.5,0,1,0
+20260429_171102,2026-04-29T17:11:58.397517,gaming_history_1,gaming,1,1,-h65O7eIJ4w,https://www.youtube.com/shorts/-h65O7eIJ4w,Gaming,2,2,1.5,0,1,0
+20260429_171102,2026-04-29T17:12:08.051231,gaming_history_1,gaming,1,1,TI5KeQUjGnw,https://www.youtube.com/shorts/TI5KeQUjGnw,Gaming,3,3,1.5,0,1,0
+20260429_171102,2026-04-29T17:12:29.268289,gaming_history_1,gaming,1,1,FoetNmoohn0,https://www.youtube.com/shorts/FoetNmoohn0,Gaming,4,5,1.5,0,1,1
+20260429_171102,2026-04-29T17:12:39.414012,gaming_history_1,gaming,1,1,93_ulrZu1WU,https://www.youtube.com/shorts/93_ulrZu1WU,People & Blogs,5,6,1.5,0,1,1
+20260429_171102,2026-04-29T17:12:49.466632,gaming_history_1,gaming,1,1,Q-hIfE2uC5c,https://www.youtube.com/shorts/Q-hIfE2uC5c,Gaming,6,7,1.5,0,1,1
+20260429_171102,2026-04-29T17:13:02.450452,gaming_history_1,gaming,1,1,UpFmRTipY5k,https://www.youtube.com/shorts/UpFmRTipY5k,Entertainment,7,8,1.5,0,1,1
+20260429_171102,2026-04-29T17:13:34.765876,gaming_history_1,gaming,1,1,6K2lP8CvhSQ,https://www.youtube.com/shorts/6K2lP8CvhSQ,Gaming,8,10,1.5,0,1,2
+20260429_171102,2026-04-29T17:13:44.901927,gaming_history_1,gaming,1,1,4kAbtXRwglM,https://www.youtube.com/shorts/4kAbtXRwglM,Film & Animation,9,11,1.5,0,1,2
+20260429_171102,2026-04-29T17:14:05.672458,gaming_history_1,gaming,1,1,OFJzGz7iVrk,https://www.youtube.com/shorts/OFJzGz7iVrk,Gaming,10,13,1.5,0,1,3
+20260429_171102,2026-04-29T17:14:14.908528,gaming_history_1,gaming,1,1,ccKLs6xdSVo,https://www.youtube.com/shorts/ccKLs6xdSVo,People & Blogs,11,14,1.5,0,1,3
+20260429_171102,2026-04-29T17:14:35.928389,gaming_history_1,gaming,1,1,Uh77XwbiIxg,https://www.youtube.com/shorts/Uh77XwbiIxg,Entertainment,12,16,1.5,0,1,4
+20260429_171102,2026-04-29T17:14:47.247638,gaming_history_1,gaming,1,1,_fsJZJAXMb4,https://www.youtube.com/shorts/_fsJZJAXMb4,Entertainment,13,17,1.5,0,1,4
+20260429_171102,2026-04-29T17:15:06.983898,gaming_history_1,gaming,1,1,Ttg43PJ7GUQ,https://www.youtube.com/shorts/Ttg43PJ7GUQ,Entertainment,14,19,1.5,0,1,5
+20260429_171102,2026-04-29T17:15:16.876518,gaming_history_1,gaming,1,1,YaQ0Y0uZVeI,https://www.youtube.com/shorts/YaQ0Y0uZVeI,Gaming,15,20,1.5,0,1,5
+20260429_171525,2026-04-29T17:16:09.754549,gaming_history_1,gaming,1,1,NC_2r8zlBTw,https://www.youtube.com/shorts/NC_2r8zlBTw,Gaming,1,1,1.5,0,1,0
+20260429_171525,2026-04-29T17:16:21.852706,gaming_history_1,gaming,1,1,Q-hIfE2uC5c,https://www.youtube.com/shorts/Q-hIfE2uC5c,Gaming,2,2,1.5,0,1,0
+20260429_171525,2026-04-29T17:16:32.219129,gaming_history_1,gaming,1,1,TI5KeQUjGnw,https://www.youtube.com/shorts/TI5KeQUjGnw,Gaming,3,3,1.5,0,1,0
+20260429_171525,2026-04-29T17:16:51.674868,gaming_history_1,gaming,1,1,ZgVdwP_TbLI,https://www.youtube.com/shorts/ZgVdwP_TbLI,Gaming,4,5,1.5,0,1,1
+20260429_171525,2026-04-29T17:17:01.986558,gaming_history_1,gaming,1,1,4iIQpgoXD7Y,https://www.youtube.com/shorts/4iIQpgoXD7Y,People & Blogs,5,6,1.5,0,1,1
+20260429_171525,2026-04-29T17:17:23.442055,gaming_history_1,gaming,1,1,OBEY4pqKC7g,https://www.youtube.com/shorts/OBEY4pqKC7g,Gaming,6,8,1.5,0,1,2
+20260429_171525,2026-04-29T17:17:34.794108,gaming_history_1,gaming,1,1,dLKoccTNgdc,https://www.youtube.com/shorts/dLKoccTNgdc,Sports,7,9,1.5,0,1,2
+20260429_171525,2026-04-29T17:17:56.504680,gaming_history_1,gaming,1,1,Gdd7aUPB6cY,https://www.youtube.com/shorts/Gdd7aUPB6cY,Gaming,8,11,1.5,0,1,3
+20260429_171525,2026-04-29T17:18:06.689630,gaming_history_1,gaming,1,1,Oa6chdpwojI,https://www.youtube.com/shorts/Oa6chdpwojI,People & Blogs,9,12,1.5,0,1,3
+20260429_171525,2026-04-29T17:18:30.325692,gaming_history_1,gaming,1,1,tEAJmTWdknY,https://www.youtube.com/shorts/tEAJmTWdknY,People & Blogs,10,14,1.5,0,1,4
+20260429_171525,2026-04-29T17:18:40.597778,gaming_history_1,gaming,1,1,QizfW-jitUM,https://www.youtube.com/shorts/QizfW-jitUM,Gaming,11,15,1.5,0,1,4
+20260429_171525,2026-04-29T17:18:55.214096,gaming_history_1,gaming,1,1,Jez6w9S9AHY,https://www.youtube.com/shorts/Jez6w9S9AHY,Entertainment,12,16,1.5,0,1,4
+20260429_171525,2026-04-29T17:19:08.827980,gaming_history_1,gaming,1,1,YaQ0Y0uZVeI,https://www.youtube.com/shorts/YaQ0Y0uZVeI,Gaming,13,17,1.5,0,1,4
+20260429_171525,2026-04-29T17:19:32.630680,gaming_history_1,gaming,1,1,BBRyReVAc1E,https://www.youtube.com/shorts/BBRyReVAc1E,Film & Animation,14,19,1.5,0,1,5
+20260429_171525,2026-04-29T17:19:51.034928,gaming_history_1,gaming,1,1,Uh77XwbiIxg,https://www.youtube.com/shorts/Uh77XwbiIxg,Entertainment,15,20,1.5,0,1,5
+20260429_172000,2026-04-29T17:20:43.683997,gaming_history_1,gaming,1,1,0Z_B6J21zdI,https://www.youtube.com/shorts/0Z_B6J21zdI,People & Blogs,1,1,1.5,0,1,0
+20260429_172000,2026-04-29T17:21:00.529254,gaming_history_1,gaming,1,1,IPZSnZQ7aVE,https://www.youtube.com/shorts/IPZSnZQ7aVE,Entertainment,2,2,1.5,0,1,0
+20260429_172000,2026-04-29T17:21:10.761427,gaming_history_1,gaming,1,1,cW3EHO-GA6Q,https://www.youtube.com/shorts/cW3EHO-GA6Q,Sports,3,3,1.5,0,1,0
+20260429_172000,2026-04-29T17:21:32.320063,gaming_history_1,gaming,1,1,QopiSPi_wG4,https://www.youtube.com/shorts/QopiSPi_wG4,People & Blogs,4,5,1.5,0,1,1
+20260429_172000,2026-04-29T17:21:42.088982,gaming_history_1,gaming,1,1,2OW5ijw7Njs,https://www.youtube.com/shorts/2OW5ijw7Njs,Comedy,5,6,1.5,0,1,1
+20260429_172000,2026-04-29T17:21:52.335114,gaming_history_1,gaming,1,1,tEAJmTWdknY,https://www.youtube.com/shorts/tEAJmTWdknY,People & Blogs,6,7,1.5,0,1,1
+20260429_172000,2026-04-29T17:22:13.289511,gaming_history_1,gaming,1,1,M2Qbu7Tpdr0,https://www.youtube.com/shorts/M2Qbu7Tpdr0,People & Blogs,7,9,1.5,0,1,2
+20260429_172000,2026-04-29T17:22:22.839440,gaming_history_1,gaming,1,1,aHOLpavgshI,https://www.youtube.com/shorts/aHOLpavgshI,Gaming,8,10,1.5,0,1,2
+20260429_172000,2026-04-29T17:22:32.104505,gaming_history_1,gaming,1,1,zTdLGqedOog,https://www.youtube.com/shorts/zTdLGqedOog,People & Blogs,9,11,1.5,0,1,2
+20260429_172000,2026-04-29T17:22:41.492860,gaming_history_1,gaming,1,1,EweQmvNDtvA,https://www.youtube.com/shorts/EweQmvNDtvA,Gaming,10,12,1.5,0,1,2
+20260429_172000,2026-04-29T17:23:04.159453,gaming_history_1,gaming,1,1,ee6b9n9qcjY,https://www.youtube.com/shorts/ee6b9n9qcjY,Entertainment,11,14,1.5,0,1,3
+20260429_172000,2026-04-29T17:23:14.281311,gaming_history_1,gaming,1,1,yQWcLH-iBlE,https://www.youtube.com/shorts/yQWcLH-iBlE,Entertainment,12,15,1.5,0,1,3
+20260429_172000,2026-04-29T17:23:34.977461,gaming_history_1,gaming,1,1,PUoxGPFlFjM,https://www.youtube.com/shorts/PUoxGPFlFjM,People & Blogs,13,17,1.5,0,1,4
+20260429_172000,2026-04-29T17:23:45.282707,gaming_history_1,gaming,1,1,tsEvqcndZPc,https://www.youtube.com/shorts/tsEvqcndZPc,Entertainment,14,18,1.5,0,1,4
+20260429_172000,2026-04-29T17:23:54.722800,gaming_history_1,gaming,1,1,NEP9wDzkQfc,https://www.youtube.com/shorts/NEP9wDzkQfc,Entertainment,15,19,1.5,0,1,4
+20260429_172401,2026-04-29T17:24:42.764069,gaming_history_1,gaming,1,1,NC_2r8zlBTw,https://www.youtube.com/shorts/NC_2r8zlBTw,Gaming,1,1,1.5,0,1,0
+20260429_172401,2026-04-29T17:24:59.243954,gaming_history_1,gaming,1,1,T5OicYjZDQ4,https://www.youtube.com/shorts/T5OicYjZDQ4,Gaming,2,2,1.5,0,1,0
+20260429_172401,2026-04-29T17:25:13.844391,gaming_history_1,gaming,1,1,gf0hcdZufDQ,https://www.youtube.com/shorts/gf0hcdZufDQ,Gaming,3,3,1.5,0,1,0
+20260429_172401,2026-04-29T17:25:35.782272,gaming_history_1,gaming,1,1,TI5KeQUjGnw,https://www.youtube.com/shorts/TI5KeQUjGnw,Gaming,4,5,1.5,0,1,1
+20260429_172401,2026-04-29T17:25:45.799752,gaming_history_1,gaming,1,1,BK1RHTNrRUo,https://www.youtube.com/shorts/BK1RHTNrRUo,People & Blogs,5,6,1.5,0,1,1
+20260429_172401,2026-04-29T17:26:05.668472,gaming_history_1,gaming,1,1,a7erxqPGArU,https://www.youtube.com/shorts/a7erxqPGArU,Gaming,6,8,1.5,0,1,2
+20260429_172401,2026-04-29T17:26:15.395739,gaming_history_1,gaming,1,1,3drl4b5YwDI,https://www.youtube.com/shorts/3drl4b5YwDI,Gaming,7,9,1.5,0,1,2
+20260429_172401,2026-04-29T17:26:25.350425,gaming_history_1,gaming,1,1,AZBhr9Dyhk4,https://www.youtube.com/shorts/AZBhr9Dyhk4,Entertainment,8,10,1.5,0,1,2
+20260429_172401,2026-04-29T17:26:34.849380,gaming_history_1,gaming,1,1,nod3RbKki70,https://www.youtube.com/shorts/nod3RbKki70,Entertainment,9,11,1.5,0,1,2
+20260429_172401,2026-04-29T17:26:54.984847,gaming_history_1,gaming,1,1,3o4AbHig2T8,https://www.youtube.com/shorts/3o4AbHig2T8,Gaming,10,13,1.5,0,1,3
+20260429_172401,2026-04-29T17:27:04.686495,gaming_history_1,gaming,1,1,4cZ9NLcBCPQ,https://www.youtube.com/shorts/4cZ9NLcBCPQ,Gaming,11,14,1.5,0,1,3
+20260429_172401,2026-04-29T17:27:25.063720,gaming_history_1,gaming,1,1,7RCSZL5WWfo,https://www.youtube.com/shorts/7RCSZL5WWfo,Gaming,12,16,1.5,0,1,4
+20260429_172401,2026-04-29T17:27:34.777491,gaming_history_1,gaming,1,1,WKf1OrtGPVo,https://www.youtube.com/shorts/WKf1OrtGPVo,People & Blogs,13,17,1.5,0,1,4
+20260429_172401,2026-04-29T17:27:44.275828,gaming_history_1,gaming,1,1,3sQNk39DCiM,https://www.youtube.com/shorts/3sQNk39DCiM,Gaming,14,18,1.5,0,1,4
+20260429_172401,2026-04-29T17:27:53.792174,gaming_history_1,gaming,1,1,RAvthNLaRr4,https://www.youtube.com/shorts/RAvthNLaRr4,Gaming,15,19,1.5,0,1,4
+20260429_172801,2026-04-29T17:28:38.007930,gaming_history_1,gaming,1,1,AKuoeZIC8-Q,https://www.youtube.com/shorts/AKuoeZIC8-Q,Gaming,1,1,1.5,0,1,0
+20260429_172801,2026-04-29T17:28:49.534604,gaming_history_1,gaming,1,1,8fxCWmhhzKo,https://www.youtube.com/shorts/8fxCWmhhzKo,Film & Animation,2,2,1.5,0,1,0
+20260429_172801,2026-04-29T17:28:59.156437,gaming_history_1,gaming,1,1,U4j5A-KUQYA,https://www.youtube.com/shorts/U4j5A-KUQYA,Gaming,3,3,1.5,0,1,0
+20260429_172801,2026-04-29T17:29:18.521279,gaming_history_1,gaming,1,1,OfclYrcJKx8,https://www.youtube.com/shorts/OfclYrcJKx8,People & Blogs,4,5,1.5,0,1,1
+20260429_172801,2026-04-29T17:29:28.033200,gaming_history_1,gaming,1,1,mrev7jcg6A0,https://www.youtube.com/shorts/mrev7jcg6A0,Sports,5,6,1.5,0,1,1
+20260429_172801,2026-04-29T17:29:47.635818,gaming_history_1,gaming,1,1,Udt7SsWZ6C8,https://www.youtube.com/shorts/Udt7SsWZ6C8,Gaming,6,8,1.5,0,1,2
+20260429_172801,2026-04-29T17:29:57.971236,gaming_history_1,gaming,1,1,PtHASjxrSj0,https://www.youtube.com/shorts/PtHASjxrSj0,Science & Technology,7,9,1.5,0,1,2
+20260429_172801,2026-04-29T17:30:18.039969,gaming_history_1,gaming,1,1,-amc0aWU_7c,https://www.youtube.com/shorts/-amc0aWU_7c,Gaming,8,11,1.5,0,1,3
+20260429_172801,2026-04-29T17:30:29.490800,gaming_history_1,gaming,1,1,ZdC9L4uj7aU,https://www.youtube.com/shorts/ZdC9L4uj7aU,People & Blogs,9,12,1.5,0,1,3
+20260429_172801,2026-04-29T17:30:50.057491,gaming_history_1,gaming,1,1,lQ2Q92QOK28,https://www.youtube.com/shorts/lQ2Q92QOK28,Entertainment,10,14,1.5,0,1,4
+20260429_172801,2026-04-29T17:31:00.089049,gaming_history_1,gaming,1,1,STdkCoVJxFY,https://www.youtube.com/shorts/STdkCoVJxFY,People & Blogs,11,15,1.5,0,1,4
+20260429_172801,2026-04-29T17:31:09.856632,gaming_history_1,gaming,1,1,tEAJmTWdknY,https://www.youtube.com/shorts/tEAJmTWdknY,People & Blogs,12,16,1.5,0,1,4
+20260429_172801,2026-04-29T17:31:19.244584,gaming_history_1,gaming,1,1,_Z3wnlcumtw,https://www.youtube.com/shorts/_Z3wnlcumtw,Entertainment,13,17,1.5,0,1,4
+20260429_172801,2026-04-29T17:31:28.582364,gaming_history_1,gaming,1,1,DkJrTcCwsi4,https://www.youtube.com/shorts/DkJrTcCwsi4,Entertainment,14,18,1.5,0,1,4
+20260429_172801,2026-04-29T17:31:40.061772,gaming_history_1,gaming,1,1,qHHmATytqq0,https://www.youtube.com/shorts/qHHmATytqq0,People & Blogs,15,19,1.5,0,1,4
+20260429_173147,2026-04-29T17:32:31.432084,gaming_history_1,gaming,1,1,Uh77XwbiIxg,https://www.youtube.com/shorts/Uh77XwbiIxg,Entertainment,1,1,1.5,0,1,0
+20260429_173147,2026-04-29T17:32:43.101767,gaming_history_1,gaming,1,1,jdK9vm8XmYQ,https://www.youtube.com/shorts/jdK9vm8XmYQ,Entertainment,2,2,1.5,0,1,0
+20260429_173147,2026-04-29T17:32:53.852511,gaming_history_1,gaming,1,1,b42_GgWgH6s,https://www.youtube.com/shorts/b42_GgWgH6s,People & Blogs,3,3,1.5,0,1,0
+20260429_173147,2026-04-29T17:33:04.293247,gaming_history_1,gaming,1,1,tpDZl8xfMSM,https://www.youtube.com/shorts/tpDZl8xfMSM,People & Blogs,4,4,1.5,0,1,0
+20260429_173147,2026-04-29T17:33:24.471818,gaming_history_1,gaming,1,1,3c66RqVq2hg,https://www.youtube.com/shorts/3c66RqVq2hg,Gaming,5,6,1.5,0,1,1
+20260429_173147,2026-04-29T17:33:34.201034,gaming_history_1,gaming,1,1,T5OicYjZDQ4,https://www.youtube.com/shorts/T5OicYjZDQ4,Gaming,6,7,1.5,0,1,1
+20260429_173147,2026-04-29T17:33:53.613685,gaming_history_1,gaming,1,1,ORuJTobzdAE,https://www.youtube.com/shorts/ORuJTobzdAE,Entertainment,7,9,1.5,0,1,2
+20260429_173147,2026-04-29T17:34:02.933110,gaming_history_1,gaming,1,1,ty8iPLAIXyA,https://www.youtube.com/shorts/ty8iPLAIXyA,Entertainment,8,10,1.5,0,1,2
+20260429_173147,2026-04-29T17:34:13.911902,gaming_history_1,gaming,1,1,w52QicLmTxc,https://www.youtube.com/shorts/w52QicLmTxc,Comedy,9,11,1.5,0,1,2
+20260429_173147,2026-04-29T17:34:34.308750,gaming_history_1,gaming,1,1,R0zK-BMIyv4,https://www.youtube.com/shorts/R0zK-BMIyv4,People & Blogs,10,13,1.5,0,1,3
+20260429_173147,2026-04-29T17:34:44.948240,gaming_history_1,gaming,1,1,7p8mR1QRYp0,https://www.youtube.com/shorts/7p8mR1QRYp0,Entertainment,11,14,1.5,0,1,3
+20260429_173147,2026-04-29T17:35:06.115018,gaming_history_1,gaming,1,1,ZIOQQ1DS-bY,https://www.youtube.com/shorts/ZIOQQ1DS-bY,People & Blogs,12,16,1.5,0,1,4
+20260429_173147,2026-04-29T17:35:20.118039,gaming_history_1,gaming,1,1,w9HRtMpjZ4A,https://www.youtube.com/shorts/w9HRtMpjZ4A,Entertainment,13,17,1.5,0,1,4
+20260429_173147,2026-04-29T17:35:41.208631,gaming_history_1,gaming,1,1,6QELtRncs_Y,https://www.youtube.com/shorts/6QELtRncs_Y,People & Blogs,14,19,1.5,0,1,5
+20260429_173147,2026-04-29T17:35:51.132517,gaming_history_1,gaming,1,1,yQWcLH-iBlE,https://www.youtube.com/shorts/yQWcLH-iBlE,Entertainment,15,20,1.5,0,1,5
+20260429_173558,2026-04-29T17:36:46.376462,gaming_history_1,gaming,1,1,NC_2r8zlBTw,https://www.youtube.com/shorts/NC_2r8zlBTw,Gaming,1,1,1.5,0,1,0
+20260429_173558,2026-04-29T17:36:58.174750,gaming_history_1,gaming,1,1,RGxMHvH9LzY,https://www.youtube.com/shorts/RGxMHvH9LzY,Gaming,2,2,1.5,0,1,0
+20260429_173558,2026-04-29T17:37:07.918550,gaming_history_1,gaming,1,1,LtDz28iSKS8,https://www.youtube.com/shorts/LtDz28iSKS8,Gaming,3,3,1.5,0,1,0
+20260429_173558,2026-04-29T17:37:28.015276,gaming_history_1,gaming,1,1,TI5KeQUjGnw,https://www.youtube.com/shorts/TI5KeQUjGnw,Gaming,4,5,1.5,0,1,1
+20260429_173558,2026-04-29T17:37:37.866070,gaming_history_1,gaming,1,1,KyvzupEnONw,https://www.youtube.com/shorts/KyvzupEnONw,Entertainment,5,6,1.5,0,1,1
+20260429_173558,2026-04-29T17:37:58.657487,gaming_history_1,gaming,1,1,vmK5_-5rGEo,https://www.youtube.com/shorts/vmK5_-5rGEo,Gaming,6,8,1.5,0,1,2
+20260429_173558,2026-04-29T17:38:12.332148,gaming_history_1,gaming,1,1,6WHGCf6H2Cs,https://www.youtube.com/shorts/6WHGCf6H2Cs,Entertainment,7,9,1.5,0,1,2
+20260429_173558,2026-04-29T17:38:32.255773,gaming_history_1,gaming,1,1,3drl4b5YwDI,https://www.youtube.com/shorts/3drl4b5YwDI,Gaming,8,11,1.5,0,1,3
+20260429_173558,2026-04-29T17:38:42.179313,gaming_history_1,gaming,1,1,mrfo1j0FU-k,https://www.youtube.com/shorts/mrfo1j0FU-k,Gaming,9,12,1.5,0,1,3
+20260429_173558,2026-04-29T17:39:02.109329,gaming_history_1,gaming,1,1,krTMiu2OqEE,https://www.youtube.com/shorts/krTMiu2OqEE,Gaming,10,14,1.5,0,1,4
+20260429_173558,2026-04-29T17:39:11.766485,gaming_history_1,gaming,1,1,u4kD3upJeLc,https://www.youtube.com/shorts/u4kD3upJeLc,Music,11,15,1.5,0,1,4
+20260429_173558,2026-04-29T17:39:31.942174,gaming_history_1,gaming,1,1,Dln3bmloE3I,https://www.youtube.com/shorts/Dln3bmloE3I,Entertainment,12,17,1.5,0,1,5
+20260429_173558,2026-04-29T17:39:42.306825,gaming_history_1,gaming,1,1,pMqK2PyPb04,https://www.youtube.com/shorts/pMqK2PyPb04,Gaming,13,18,1.5,0,1,5
+20260429_173558,2026-04-29T17:40:02.430775,gaming_history_1,gaming,1,1,tEAJmTWdknY,https://www.youtube.com/shorts/tEAJmTWdknY,People & Blogs,14,20,1.5,0,1,6
+20260429_173558,2026-04-29T17:40:11.692076,gaming_history_1,gaming,1,1,U3Ypu_Zydew,https://www.youtube.com/shorts/U3Ypu_Zydew,People & Blogs,15,21,1.5,0,1,6
+20260429_174018,2026-04-29T17:40:57.112038,gaming_history_1,gaming,1,1,41fu7TSApjc,https://www.youtube.com/shorts/41fu7TSApjc,Gaming,1,1,1.5,0,1,0
+20260429_174018,2026-04-29T17:41:07.368829,gaming_history_1,gaming,1,1,2CBGkiqa5to,https://www.youtube.com/shorts/2CBGkiqa5to,People & Blogs,2,2,1.5,0,1,0
+20260429_174018,2026-04-29T17:41:16.995170,gaming_history_1,gaming,1,1,4PoM9_GW0VY,https://www.youtube.com/shorts/4PoM9_GW0VY,Gaming,3,3,1.5,0,1,0
+20260429_174018,2026-04-29T17:41:36.862993,gaming_history_1,gaming,1,1,Gdd7aUPB6cY,https://www.youtube.com/shorts/Gdd7aUPB6cY,Gaming,4,5,1.5,0,1,1
+20260429_174018,2026-04-29T17:41:46.077650,gaming_history_1,gaming,1,1,EZQoQucMrhQ,https://www.youtube.com/shorts/EZQoQucMrhQ,People & Blogs,5,6,1.5,0,1,1
+20260429_174018,2026-04-29T17:42:06.641439,gaming_history_1,gaming,1,1,OBEY4pqKC7g,https://www.youtube.com/shorts/OBEY4pqKC7g,Gaming,6,8,1.5,0,1,2
+20260429_174018,2026-04-29T17:42:16.556191,gaming_history_1,gaming,1,1,NzkbG0h2JFQ,https://www.youtube.com/shorts/NzkbG0h2JFQ,People & Blogs,7,9,1.5,0,1,2
+20260429_174018,2026-04-29T17:42:36.439900,gaming_history_1,gaming,1,1,Y8ULYfYOANg,https://www.youtube.com/shorts/Y8ULYfYOANg,Gaming,8,11,1.5,0,1,3
+20260429_174018,2026-04-29T17:42:46.151702,gaming_history_1,gaming,1,1,WqYElqM3RRw,https://www.youtube.com/shorts/WqYElqM3RRw,Entertainment,9,12,1.5,0,1,3
+20260429_174018,2026-04-29T17:42:55.848800,gaming_history_1,gaming,1,1,NEP9wDzkQfc,https://www.youtube.com/shorts/NEP9wDzkQfc,Entertainment,10,13,1.5,0,1,3
+20260429_174018,2026-04-29T17:43:05.070737,gaming_history_1,gaming,1,1,6M8eMW-cHDU,https://www.youtube.com/shorts/6M8eMW-cHDU,Entertainment,11,14,1.5,0,1,3
+20260429_174018,2026-04-29T17:43:23.961027,gaming_history_1,gaming,1,1,Xb5ivSaEN-s,https://www.youtube.com/shorts/Xb5ivSaEN-s,Sports,12,16,1.5,0,1,4
+20260429_174018,2026-04-29T17:43:34.246315,gaming_history_1,gaming,1,1,Ep9H5MEHlCw,https://www.youtube.com/shorts/Ep9H5MEHlCw,Gaming,13,17,1.5,0,1,4
+20260429_174018,2026-04-29T17:43:44.205360,gaming_history_1,gaming,1,1,iJF0lzLXqFA,https://www.youtube.com/shorts/iJF0lzLXqFA,Entertainment,14,18,1.5,0,1,4
+20260429_174018,2026-04-29T17:43:54.196565,gaming_history_1,gaming,1,1,tEAJmTWdknY,https://www.youtube.com/shorts/tEAJmTWdknY,People & Blogs,15,19,1.5,0,1,4
+20260429_174401,2026-04-29T17:44:38.321130,gaming_history_1,gaming,1,1,tW19DLsASxI,https://www.youtube.com/shorts/tW19DLsASxI,Entertainment,1,1,1.5,0,1,0
+20260429_174401,2026-04-29T17:44:47.958591,gaming_history_1,gaming,1,1,nod3RbKki70,https://www.youtube.com/shorts/nod3RbKki70,Entertainment,2,2,1.5,0,1,0
+20260429_174401,2026-04-29T17:44:59.245577,gaming_history_1,gaming,1,1,glbRZOUVM0U,https://www.youtube.com/shorts/glbRZOUVM0U,Science & Technology,3,3,1.5,0,1,0
+20260429_174401,2026-04-29T17:45:19.161760,gaming_history_1,gaming,1,1,LuZekg-Zzws,https://www.youtube.com/shorts/LuZekg-Zzws,People & Blogs,4,5,1.5,0,1,1
+20260429_174401,2026-04-29T17:45:28.986487,gaming_history_1,gaming,1,1,wSkqSSTWgiU,https://www.youtube.com/shorts/wSkqSSTWgiU,Education,5,6,1.5,0,1,1
+20260429_174401,2026-04-29T17:45:48.894827,gaming_history_1,gaming,1,1,gL87Pia-4xs,https://www.youtube.com/shorts/gL87Pia-4xs,Gaming,6,8,1.5,0,1,2
+20260429_174401,2026-04-29T17:45:59.054484,gaming_history_1,gaming,1,1,62ZhsGA_yXE,https://www.youtube.com/shorts/62ZhsGA_yXE,People & Blogs,7,9,1.5,0,1,2
+20260429_174401,2026-04-29T17:46:20.711857,gaming_history_1,gaming,1,1,pdjqNuwEyCA,https://www.youtube.com/shorts/pdjqNuwEyCA,Entertainment,8,11,1.5,0,1,3
+20260429_174401,2026-04-29T17:46:31.914885,gaming_history_1,gaming,1,1,jePjoRWI_dA,https://www.youtube.com/shorts/jePjoRWI_dA,People & Blogs,9,12,1.5,0,1,3
+20260429_174401,2026-04-29T17:46:53.118369,gaming_history_1,gaming,1,1,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,10,14,1.5,0,1,4
+20260429_174401,2026-04-29T17:47:04.505142,gaming_history_1,gaming,1,1,JzOXjljd_hs,https://www.youtube.com/shorts/JzOXjljd_hs,People & Blogs,11,15,1.5,0,1,4
+20260429_174401,2026-04-29T17:47:16.894220,gaming_history_1,gaming,1,1,R0zK-BMIyv4,https://www.youtube.com/shorts/R0zK-BMIyv4,People & Blogs,12,16,1.5,0,1,4
+20260429_174401,2026-04-29T17:47:39.832500,gaming_history_1,gaming,1,1,orGG39iDRJg,https://www.youtube.com/shorts/orGG39iDRJg,Entertainment,13,18,1.5,0,1,5
+20260429_174401,2026-04-29T17:47:53.246957,gaming_history_1,gaming,1,1,fqF7YAxKtQc,https://www.youtube.com/shorts/fqF7YAxKtQc,Film & Animation,14,19,1.5,0,1,5
+20260429_174401,2026-04-29T17:48:04.954105,gaming_history_1,gaming,1,1,aFdsXQp0EDA,https://www.youtube.com/shorts/aFdsXQp0EDA,People & Blogs,15,20,1.5,0,1,5
+20260429_174812,2026-04-29T17:48:57.385996,gaming_history_1,gaming,1,1,NC_2r8zlBTw,https://www.youtube.com/shorts/NC_2r8zlBTw,Gaming,1,1,1.5,0,1,0
+20260429_174812,2026-04-29T17:49:10.476435,gaming_history_1,gaming,1,1,Q-hIfE2uC5c,https://www.youtube.com/shorts/Q-hIfE2uC5c,Gaming,2,2,1.5,0,1,0
+20260429_174812,2026-04-29T17:49:21.801085,gaming_history_1,gaming,1,1,T5OicYjZDQ4,https://www.youtube.com/shorts/T5OicYjZDQ4,Gaming,3,3,1.5,0,1,0
+20260429_174812,2026-04-29T17:49:43.842666,gaming_history_1,gaming,1,1,TI5KeQUjGnw,https://www.youtube.com/shorts/TI5KeQUjGnw,Gaming,4,5,1.5,0,1,1
+20260429_174812,2026-04-29T17:49:57.768238,gaming_history_1,gaming,1,1,xA4L8Xats7M,https://www.youtube.com/shorts/xA4L8Xats7M,People & Blogs,5,6,1.5,0,1,1
+20260429_174812,2026-04-29T17:50:19.749084,gaming_history_1,gaming,1,1,OBEY4pqKC7g,https://www.youtube.com/shorts/OBEY4pqKC7g,Gaming,6,8,1.5,0,1,2
+20260429_174812,2026-04-29T17:50:30.568481,gaming_history_1,gaming,1,1,PZ8uiLrOwOU,https://www.youtube.com/shorts/PZ8uiLrOwOU,Gaming,7,9,1.5,0,1,2
+20260429_174812,2026-04-29T17:50:50.305609,gaming_history_1,gaming,1,1,Y8ULYfYOANg,https://www.youtube.com/shorts/Y8ULYfYOANg,Gaming,8,11,1.5,0,1,3
+20260429_174812,2026-04-29T17:50:59.166819,gaming_history_1,gaming,1,1,0vkuY29IOUA,https://www.youtube.com/shorts/0vkuY29IOUA,Film & Animation,9,12,1.5,0,1,3
+20260429_174812,2026-04-29T17:51:17.454952,gaming_history_1,gaming,1,1,xcE0DPobEgk,https://www.youtube.com/shorts/xcE0DPobEgk,People & Blogs,10,14,1.5,0,1,4
+20260429_174812,2026-04-29T17:51:27.230898,gaming_history_1,gaming,1,1,d64VGgpbSWE,https://www.youtube.com/shorts/d64VGgpbSWE,Entertainment,11,15,1.5,0,1,4
+20260429_174812,2026-04-29T17:51:37.705025,gaming_history_1,gaming,1,1,D4TPqKY6toM,https://www.youtube.com/shorts/D4TPqKY6toM,Gaming,12,16,1.5,0,1,4
+20260429_174812,2026-04-29T17:51:46.761889,gaming_history_1,gaming,1,1,tEAJmTWdknY,https://www.youtube.com/shorts/tEAJmTWdknY,People & Blogs,13,17,1.5,0,1,4
+20260429_174812,2026-04-29T17:52:06.110218,gaming_history_1,gaming,1,1,KdvqlfZjenE,https://www.youtube.com/shorts/KdvqlfZjenE,Gaming,14,19,1.5,0,1,5
+20260429_174812,2026-04-29T17:52:17.941364,gaming_history_1,gaming,1,1,LPzb9wzju0A,https://www.youtube.com/shorts/LPzb9wzju0A,People & Blogs,15,20,1.5,0,1,5
+20260429_175224,2026-04-29T17:53:01.208705,gaming_history_1,gaming,1,1,NC_2r8zlBTw,https://www.youtube.com/shorts/NC_2r8zlBTw,Gaming,1,1,1.5,0,1,0
+20260429_175224,2026-04-29T17:53:12.436265,gaming_history_1,gaming,1,1,b_WeVWva-Nw,https://www.youtube.com/shorts/b_WeVWva-Nw,Gaming,2,2,1.5,0,1,0
+20260429_175224,2026-04-29T17:53:22.129864,gaming_history_1,gaming,1,1,4naKAkuUfOg,https://www.youtube.com/shorts/4naKAkuUfOg,Gaming,3,3,1.5,0,1,0
+20260429_175224,2026-04-29T17:53:41.274688,gaming_history_1,gaming,1,1,SwY1tsegRJI,https://www.youtube.com/shorts/SwY1tsegRJI,Gaming,4,5,1.5,0,1,1
+20260429_175224,2026-04-29T17:53:50.523867,gaming_history_1,gaming,1,1,qFD-bfD3_XU,https://www.youtube.com/shorts/qFD-bfD3_XU,Entertainment,5,6,1.5,0,1,1
+20260429_175224,2026-04-29T17:54:11.842005,gaming_history_1,gaming,1,1,UFmW1ZXttFw,https://www.youtube.com/shorts/UFmW1ZXttFw,Gaming,6,8,1.5,0,1,2
+20260429_175224,2026-04-29T17:54:21.476421,gaming_history_1,gaming,1,1,JlbLMFb0Zhg,https://www.youtube.com/shorts/JlbLMFb0Zhg,Sports,7,9,1.5,0,1,2
+20260429_175224,2026-04-29T17:54:43.630447,gaming_history_1,gaming,1,1,a7SUIAnlVIU,https://www.youtube.com/shorts/a7SUIAnlVIU,Gaming,8,11,1.5,0,1,3
+20260429_175224,2026-04-29T17:54:53.654586,gaming_history_1,gaming,1,1,oqhyUnCX0jA,https://www.youtube.com/shorts/oqhyUnCX0jA,People & Blogs,9,12,1.5,0,1,3
+20260429_175224,2026-04-29T17:55:14.149486,gaming_history_1,gaming,1,1,JLrGOov_FRk,https://www.youtube.com/shorts/JLrGOov_FRk,People & Blogs,10,14,1.5,0,1,4
+20260429_175224,2026-04-29T17:55:24.546237,gaming_history_1,gaming,1,1,gP9WvoEjyH4,https://www.youtube.com/shorts/gP9WvoEjyH4,Entertainment,11,15,1.5,0,1,4
+20260429_175224,2026-04-29T17:55:35.486013,gaming_history_1,gaming,1,1,r_n5w_UIRRE,https://www.youtube.com/shorts/r_n5w_UIRRE,People & Blogs,12,16,1.5,0,1,4
+20260429_175224,2026-04-29T17:55:46.212118,gaming_history_1,gaming,1,1,6ELTYCWO-zA,https://www.youtube.com/shorts/6ELTYCWO-zA,Gaming,13,17,1.5,0,1,4
+20260429_175224,2026-04-29T17:56:07.996353,gaming_history_1,gaming,1,1,mAiIDl371HA,https://www.youtube.com/shorts/mAiIDl371HA,Music,14,19,1.5,0,1,5
+20260429_175224,2026-04-29T17:56:18.167134,gaming_history_1,gaming,1,1,3o4AbHig2T8,https://www.youtube.com/shorts/3o4AbHig2T8,Gaming,15,20,1.5,0,1,5
+20260429_175626,2026-04-29T17:57:09.165809,gaming_history_1,gaming,1,1,NC_2r8zlBTw,https://www.youtube.com/shorts/NC_2r8zlBTw,Gaming,1,1,1.5,0,1,0
+20260429_175626,2026-04-29T17:57:20.503042,gaming_history_1,gaming,1,1,T5OicYjZDQ4,https://www.youtube.com/shorts/T5OicYjZDQ4,Gaming,2,2,1.5,0,1,0
+20260429_175626,2026-04-29T17:57:29.880903,gaming_history_1,gaming,1,1,TI5KeQUjGnw,https://www.youtube.com/shorts/TI5KeQUjGnw,Gaming,3,3,1.5,0,1,0
+20260429_175626,2026-04-29T17:57:49.753833,gaming_history_1,gaming,1,1,JoLJHAZxu6g,https://www.youtube.com/shorts/JoLJHAZxu6g,Gaming,4,5,1.5,0,1,1
+20260429_175626,2026-04-29T17:57:58.933360,gaming_history_1,gaming,1,1,IDMOghagc1g,https://www.youtube.com/shorts/IDMOghagc1g,Entertainment,5,6,1.5,0,1,1
+20260429_175626,2026-04-29T17:58:18.395270,gaming_history_1,gaming,1,1,OBEY4pqKC7g,https://www.youtube.com/shorts/OBEY4pqKC7g,Gaming,6,8,1.5,0,1,2
+20260429_175626,2026-04-29T17:58:28.012250,gaming_history_1,gaming,1,1,Bap3s4jDT4g,https://www.youtube.com/shorts/Bap3s4jDT4g,People & Blogs,7,9,1.5,0,1,2
+20260429_175626,2026-04-29T17:58:46.700652,gaming_history_1,gaming,1,1,8J53cCQPS8c,https://www.youtube.com/shorts/8J53cCQPS8c,Gaming,8,11,1.5,0,1,3
+20260429_175626,2026-04-29T17:58:56.509757,gaming_history_1,gaming,1,1,KyvzupEnONw,https://www.youtube.com/shorts/KyvzupEnONw,Entertainment,9,12,1.5,0,1,3
+20260429_175626,2026-04-29T17:59:15.429996,gaming_history_1,gaming,1,1,4cZ9NLcBCPQ,https://www.youtube.com/shorts/4cZ9NLcBCPQ,Gaming,10,14,1.5,0,1,4
+20260429_175626,2026-04-29T17:59:24.668891,gaming_history_1,gaming,1,1,7RCSZL5WWfo,https://www.youtube.com/shorts/7RCSZL5WWfo,Gaming,11,15,1.5,0,1,4
+20260429_175626,2026-04-29T17:59:34.121356,gaming_history_1,gaming,1,1,_OQmqdYiD-0,https://www.youtube.com/shorts/_OQmqdYiD-0,Gaming,12,16,1.5,0,1,4
+20260429_175626,2026-04-29T17:59:43.189360,gaming_history_1,gaming,1,1,dfHjqoyfYtc,https://www.youtube.com/shorts/dfHjqoyfYtc,People & Blogs,13,17,1.5,0,1,4
+20260429_175626,2026-04-29T18:00:02.189140,gaming_history_1,gaming,1,1,ouC-Ivm_1CI,https://www.youtube.com/shorts/ouC-Ivm_1CI,Gaming,14,19,1.5,0,1,5
+20260429_175626,2026-04-29T18:00:12.923660,gaming_history_1,gaming,1,1,nuSFFnykBLA,https://www.youtube.com/shorts/nuSFFnykBLA,Gaming,15,20,1.5,0,1,5
+20260429_180017,2026-04-29T18:01:18.566584,gaming_history_3,gaming,3,3,4xrKuTnnc8I,https://www.youtube.com/shorts/4xrKuTnnc8I,People & Blogs,1,1,1.5,0,1,0
+20260429_180017,2026-04-29T18:01:30.276403,gaming_history_3,gaming,3,3,nRc2yyfvDHg,https://www.youtube.com/shorts/nRc2yyfvDHg,People & Blogs,2,2,1.5,0,1,0
+20260429_180017,2026-04-29T18:01:39.166826,gaming_history_3,gaming,3,3,twK9FpUvn4I,https://www.youtube.com/shorts/twK9FpUvn4I,Gaming,3,3,1.5,0,1,0
+20260429_180017,2026-04-29T18:01:59.801264,gaming_history_3,gaming,3,3,W5HgFj2sSR4,https://www.youtube.com/shorts/W5HgFj2sSR4,People & Blogs,4,5,1.5,0,1,1
+20260429_180017,2026-04-29T18:02:10.041316,gaming_history_3,gaming,3,3,Oj4Qxz7E0sw,https://www.youtube.com/shorts/Oj4Qxz7E0sw,People & Blogs,5,6,1.5,0,1,1
+20260429_180017,2026-04-29T18:02:19.809562,gaming_history_3,gaming,3,3,vnWEwufXZbo,https://www.youtube.com/shorts/vnWEwufXZbo,Entertainment,6,7,1.5,0,1,1
+20260429_180017,2026-04-29T18:02:30.176170,gaming_history_3,gaming,3,3,kSYdYLwZZdU,https://www.youtube.com/shorts/kSYdYLwZZdU,People & Blogs,7,8,1.5,0,1,1
+20260429_180017,2026-04-29T18:02:50.184576,gaming_history_3,gaming,3,3,ZG4pah9StpE,https://www.youtube.com/shorts/ZG4pah9StpE,People & Blogs,8,10,1.5,0,1,2
+20260429_180017,2026-04-29T18:02:59.916852,gaming_history_3,gaming,3,3,xS_wU2ZuMx8,https://www.youtube.com/shorts/xS_wU2ZuMx8,People & Blogs,9,11,1.5,0,1,2
+20260429_180017,2026-04-29T18:03:20.152703,gaming_history_3,gaming,3,3,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,10,13,1.5,0,1,3
+20260429_180017,2026-04-29T18:03:29.603367,gaming_history_3,gaming,3,3,UaaJxeE8w0k,https://www.youtube.com/shorts/UaaJxeE8w0k,Gaming,11,14,1.5,0,1,3
+20260429_180017,2026-04-29T18:03:39.458019,gaming_history_3,gaming,3,3,IomnahyEyB4,https://www.youtube.com/shorts/IomnahyEyB4,People & Blogs,12,15,1.5,0,1,3
+20260429_180017,2026-04-29T18:03:49.227899,gaming_history_3,gaming,3,3,AH03WQZkvgI,https://www.youtube.com/shorts/AH03WQZkvgI,Gaming,13,16,1.5,0,1,3
+20260429_180017,2026-04-29T18:04:08.199038,gaming_history_3,gaming,3,3,znUn-YCL_zc,https://www.youtube.com/shorts/znUn-YCL_zc,Sports,14,18,1.5,0,1,4
+20260429_180017,2026-04-29T18:04:17.747964,gaming_history_3,gaming,3,3,rLk_W2544fA,https://www.youtube.com/shorts/rLk_W2544fA,People & Blogs,15,19,1.5,0,1,4
+20260429_180425,2026-04-29T18:05:27.671870,gaming_history_3,gaming,3,3,C4OxJV1uA0g,https://www.youtube.com/shorts/C4OxJV1uA0g,Music,1,1,1.5,0,1,0
+20260429_180425,2026-04-29T18:05:41.716334,gaming_history_3,gaming,3,3,r_n5w_UIRRE,https://www.youtube.com/shorts/r_n5w_UIRRE,People & Blogs,2,2,1.5,0,1,0
+20260429_180425,2026-04-29T18:05:51.995829,gaming_history_3,gaming,3,3,skEGafKHQC8,https://www.youtube.com/shorts/skEGafKHQC8,People & Blogs,3,3,1.5,0,1,0
+20260429_180425,2026-04-29T18:06:12.430688,gaming_history_3,gaming,3,3,f-_ntGi14NM,https://www.youtube.com/shorts/f-_ntGi14NM,People & Blogs,4,5,1.5,0,1,1
+20260429_180425,2026-04-29T18:06:22.097785,gaming_history_3,gaming,3,3,QELMXX_3aTY,https://www.youtube.com/shorts/QELMXX_3aTY,People & Blogs,5,6,1.5,0,1,1
+20260429_180425,2026-04-29T18:06:41.193945,gaming_history_3,gaming,3,3,dIgYU_ctof4,https://www.youtube.com/shorts/dIgYU_ctof4,Sports,6,8,1.5,0,1,2
+20260429_180425,2026-04-29T18:06:50.510152,gaming_history_3,gaming,3,3,ZkbJ7E7sZG0,https://www.youtube.com/shorts/ZkbJ7E7sZG0,People & Blogs,7,9,1.5,0,1,2
+20260429_180425,2026-04-29T18:07:09.462627,gaming_history_3,gaming,3,3,4wA72AccStM,https://www.youtube.com/shorts/4wA72AccStM,People & Blogs,8,11,1.5,0,1,3
+20260429_180425,2026-04-29T18:07:18.603084,gaming_history_3,gaming,3,3,Amrf-Kw6UQ4,https://www.youtube.com/shorts/Amrf-Kw6UQ4,People & Blogs,9,12,1.5,0,1,3
+20260429_180425,2026-04-29T18:07:27.990986,gaming_history_3,gaming,3,3,BrIKUOxIxUg,https://www.youtube.com/shorts/BrIKUOxIxUg,People & Blogs,10,13,1.5,0,1,3
+20260429_180425,2026-04-29T18:07:37.310750,gaming_history_3,gaming,3,3,gZ3EBE5E8U8,https://www.youtube.com/shorts/gZ3EBE5E8U8,Pets & Animals,11,14,1.5,0,1,3
+20260429_180425,2026-04-29T18:07:56.622601,gaming_history_3,gaming,3,3,6OEhW4RbyUM,https://www.youtube.com/shorts/6OEhW4RbyUM,Entertainment,12,16,1.5,0,1,4
+20260429_180425,2026-04-29T18:08:06.080305,gaming_history_3,gaming,3,3,2D___gi5Eds,https://www.youtube.com/shorts/2D___gi5Eds,People & Blogs,13,17,1.5,0,1,4
+20260429_180425,2026-04-29T18:08:15.899177,gaming_history_3,gaming,3,3,4VhSa3V35t0,https://www.youtube.com/shorts/4VhSa3V35t0,Howto & Style,14,18,1.5,0,1,4
+20260429_180425,2026-04-29T18:08:25.449076,gaming_history_3,gaming,3,3,5J-mkgt0BWc,https://www.youtube.com/shorts/5J-mkgt0BWc,Comedy,15,19,1.5,0,1,4
+20260429_180832,2026-04-29T18:09:32.815912,gaming_history_3,gaming,3,3,C4OxJV1uA0g,https://www.youtube.com/shorts/C4OxJV1uA0g,Music,1,1,1.5,0,1,0
+20260429_180832,2026-04-29T18:09:44.068365,gaming_history_3,gaming,3,3,4jpsBkmjsuM,https://www.youtube.com/shorts/4jpsBkmjsuM,People & Blogs,2,2,1.5,0,1,0
+20260429_180832,2026-04-29T18:09:53.400534,gaming_history_3,gaming,3,3,IfcvZ92iWbI,https://www.youtube.com/shorts/IfcvZ92iWbI,Entertainment,3,3,1.5,0,1,0
+20260429_180832,2026-04-29T18:10:12.610438,gaming_history_3,gaming,3,3,yQWcLH-iBlE,https://www.youtube.com/shorts/yQWcLH-iBlE,Entertainment,4,5,1.5,0,1,1
+20260429_180832,2026-04-29T18:10:21.589362,gaming_history_3,gaming,3,3,taz87lH5IXo,https://www.youtube.com/shorts/taz87lH5IXo,People & Blogs,5,6,1.5,0,1,1
+20260429_180832,2026-04-29T18:10:30.735299,gaming_history_3,gaming,3,3,MbpPxnaAq1Q,https://www.youtube.com/shorts/MbpPxnaAq1Q,Gaming,6,7,1.5,0,1,1
+20260429_180832,2026-04-29T18:10:40.046377,gaming_history_3,gaming,3,3,f-egN_dTnss,https://www.youtube.com/shorts/f-egN_dTnss,People & Blogs,7,8,1.5,0,1,1
+20260429_180832,2026-04-29T18:10:58.829087,gaming_history_3,gaming,3,3,7T2OZtXkTxk,https://www.youtube.com/shorts/7T2OZtXkTxk,Entertainment,8,10,1.5,0,1,2
+20260429_180832,2026-04-29T18:11:08.192164,gaming_history_3,gaming,3,3,xO00eRrq5JA,https://www.youtube.com/shorts/xO00eRrq5JA,Entertainment,9,11,1.5,0,1,2
+20260429_180832,2026-04-29T18:11:17.445517,gaming_history_3,gaming,3,3,GIhwuLcthz0,https://www.youtube.com/shorts/GIhwuLcthz0,Comedy,10,12,1.5,0,1,2
+20260429_180832,2026-04-29T18:11:27.228618,gaming_history_3,gaming,3,3,Gmka9pDv4Zc,https://www.youtube.com/shorts/Gmka9pDv4Zc,Gaming,11,13,1.5,0,1,2
+20260429_180832,2026-04-29T18:11:37.529151,gaming_history_3,gaming,3,3,cGKIQDM731M,https://www.youtube.com/shorts/cGKIQDM731M,Gaming,12,14,1.5,0,1,2
+20260429_180832,2026-04-29T18:11:57.493095,gaming_history_3,gaming,3,3,Ch95MdcqWJk,https://www.youtube.com/shorts/Ch95MdcqWJk,People & Blogs,13,16,1.5,0,1,3
+20260429_180832,2026-04-29T18:12:07.357861,gaming_history_3,gaming,3,3,orGG39iDRJg,https://www.youtube.com/shorts/orGG39iDRJg,Entertainment,14,17,1.5,0,1,3
+20260429_180832,2026-04-29T18:12:16.802519,gaming_history_3,gaming,3,3,6lsFe4w_Qxs,https://www.youtube.com/shorts/6lsFe4w_Qxs,People & Blogs,15,18,1.5,0,1,3
+20260429_181224,2026-04-29T18:13:27.080498,gaming_history_3,gaming,3,3,C4OxJV1uA0g,https://www.youtube.com/shorts/C4OxJV1uA0g,Music,1,1,1.5,0,1,0
+20260429_181224,2026-04-29T18:13:41.253707,gaming_history_3,gaming,3,3,VSJol8FSnoU,https://www.youtube.com/shorts/VSJol8FSnoU,People & Blogs,2,2,1.5,0,1,0
+20260429_181224,2026-04-29T18:13:50.909522,gaming_history_3,gaming,3,3,i7rqTIE7v6M,https://www.youtube.com/shorts/i7rqTIE7v6M,Gaming,3,3,1.5,0,1,0
+20260429_181224,2026-04-29T18:14:10.841333,gaming_history_3,gaming,3,3,k2I_UQ0ESFU,https://www.youtube.com/shorts/k2I_UQ0ESFU,Film & Animation,4,5,1.5,0,1,1
+20260429_181224,2026-04-29T18:14:20.971042,gaming_history_3,gaming,3,3,rYdYeHBbJl0,https://www.youtube.com/shorts/rYdYeHBbJl0,People & Blogs,5,6,1.5,0,1,1
+20260429_181224,2026-04-29T18:14:41.055997,gaming_history_3,gaming,3,3,eEgDA726rl4,https://www.youtube.com/shorts/eEgDA726rl4,Entertainment,6,8,1.5,0,1,2
+20260429_181224,2026-04-29T18:14:51.142964,gaming_history_3,gaming,3,3,KaQmjIS87rA,https://www.youtube.com/shorts/KaQmjIS87rA,Gaming,7,9,1.5,0,1,2
+20260429_181224,2026-04-29T18:15:11.213948,gaming_history_3,gaming,3,3,DpcW1LIV4Hw,https://www.youtube.com/shorts/DpcW1LIV4Hw,People & Blogs,8,11,1.5,0,1,3
+20260429_181224,2026-04-29T18:15:20.999631,gaming_history_3,gaming,3,3,JnWJA1bfO24,https://www.youtube.com/shorts/JnWJA1bfO24,People & Blogs,9,12,1.5,0,1,3
+20260429_181224,2026-04-29T18:15:30.024052,gaming_history_3,gaming,3,3,rFCbSmEJEho,https://www.youtube.com/shorts/rFCbSmEJEho,Entertainment,10,13,1.5,0,1,3
+20260429_181224,2026-04-29T18:15:39.107335,gaming_history_3,gaming,3,3,Y8MXovgiLOw,https://www.youtube.com/shorts/Y8MXovgiLOw,Howto & Style,11,14,1.5,0,1,3
+20260429_181224,2026-04-29T18:15:58.139967,gaming_history_3,gaming,3,3,PAd_jE0GgLo,https://www.youtube.com/shorts/PAd_jE0GgLo,Entertainment,12,16,1.5,0,1,4
+20260429_181224,2026-04-29T18:16:07.203728,gaming_history_3,gaming,3,3,GIhwuLcthz0,https://www.youtube.com/shorts/GIhwuLcthz0,Comedy,13,17,1.5,0,1,4
+20260429_181224,2026-04-29T18:16:27.049141,gaming_history_3,gaming,3,3,A_hbIDK09LI,https://www.youtube.com/shorts/A_hbIDK09LI,Comedy,14,19,1.5,0,1,5
+20260429_181224,2026-04-29T18:16:35.953812,gaming_history_3,gaming,3,3,xViXHtW0e3I,https://www.youtube.com/shorts/xViXHtW0e3I,Gaming,15,20,1.5,0,1,5
+20260429_181643,2026-04-29T18:17:43.477157,gaming_history_3,gaming,3,3,oNn_tPRZpm8,https://www.youtube.com/shorts/oNn_tPRZpm8,Gaming,1,1,1.5,0,1,0
+20260429_181643,2026-04-29T18:17:54.614371,gaming_history_3,gaming,3,3,2poyoryishQ,https://www.youtube.com/shorts/2poyoryishQ,Entertainment,2,2,1.5,0,1,0
+20260429_181643,2026-04-29T18:18:04.109528,gaming_history_3,gaming,3,3,whfFtC2xFzE,https://www.youtube.com/shorts/whfFtC2xFzE,Gaming,3,3,1.5,0,1,0
+20260429_181643,2026-04-29T18:18:22.991834,gaming_history_3,gaming,3,3,qU2_DWygKC4,https://www.youtube.com/shorts/qU2_DWygKC4,Gaming,4,5,1.5,0,1,1
+20260429_181643,2026-04-29T18:18:32.659323,gaming_history_3,gaming,3,3,xfgEUtJSclM,https://www.youtube.com/shorts/xfgEUtJSclM,People & Blogs,5,6,1.5,0,1,1
+20260429_181643,2026-04-29T18:18:55.233398,gaming_history_3,gaming,3,3,pbRrNxhP_2M,https://www.youtube.com/shorts/pbRrNxhP_2M,People & Blogs,6,8,1.5,0,1,2
+20260429_181643,2026-04-29T18:19:04.797449,gaming_history_3,gaming,3,3,Pb6VSFZ2wYs,https://www.youtube.com/shorts/Pb6VSFZ2wYs,People & Blogs,7,9,1.5,0,1,2
+20260429_181643,2026-04-29T18:19:23.728849,gaming_history_3,gaming,3,3,IPZSnZQ7aVE,https://www.youtube.com/shorts/IPZSnZQ7aVE,Entertainment,8,11,1.5,0,1,3
+20260429_181643,2026-04-29T18:19:33.729053,gaming_history_3,gaming,3,3,nBDC7eIiPjk,https://www.youtube.com/shorts/nBDC7eIiPjk,People & Blogs,9,12,1.5,0,1,3
+20260429_181643,2026-04-29T18:19:52.803883,gaming_history_3,gaming,3,3,ewvmWuicKa4,https://www.youtube.com/shorts/ewvmWuicKa4,Gaming,10,14,1.5,0,1,4
+20260429_181643,2026-04-29T18:20:01.885534,gaming_history_3,gaming,3,3,bwMsxkTRisY,https://www.youtube.com/shorts/bwMsxkTRisY,Gaming,11,15,1.5,0,1,4
+20260429_181643,2026-04-29T18:20:22.125364,gaming_history_3,gaming,3,3,PI-YwieKKJM,https://www.youtube.com/shorts/PI-YwieKKJM,People & Blogs,12,17,1.5,0,1,5
+20260429_181643,2026-04-29T18:20:31.594858,gaming_history_3,gaming,3,3,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,13,18,1.5,0,1,5
+20260429_181643,2026-04-29T18:20:40.785560,gaming_history_3,gaming,3,3,MsEinsViAYg,https://www.youtube.com/shorts/MsEinsViAYg,Gaming,14,19,1.5,0,1,5
+20260429_181643,2026-04-29T18:20:51.039344,gaming_history_3,gaming,3,3,tx6GLbwhAVw,https://www.youtube.com/shorts/tx6GLbwhAVw,Entertainment,15,20,1.5,0,1,5
+20260429_182059,2026-04-29T18:22:01.360585,gaming_history_3,gaming,3,3,CJBHomXGfNg,https://www.youtube.com/shorts/CJBHomXGfNg,Entertainment,1,1,1.5,0,1,0
+20260429_182059,2026-04-29T18:22:15.285688,gaming_history_3,gaming,3,3,j6FjJ_XRe-Q,https://www.youtube.com/shorts/j6FjJ_XRe-Q,Gaming,2,2,1.5,0,1,0
+20260429_182059,2026-04-29T18:22:24.735063,gaming_history_3,gaming,3,3,hFbP8abc67g,https://www.youtube.com/shorts/hFbP8abc67g,Gaming,3,3,1.5,0,1,0
+20260429_182059,2026-04-29T18:22:44.127816,gaming_history_3,gaming,3,3,ldaN-bBX5-c,https://www.youtube.com/shorts/ldaN-bBX5-c,Entertainment,4,5,1.5,0,1,1
+20260429_182059,2026-04-29T18:22:53.415328,gaming_history_3,gaming,3,3,tX0cMWJscN8,https://www.youtube.com/shorts/tX0cMWJscN8,Entertainment,5,6,1.5,0,1,1
+20260429_182059,2026-04-29T18:23:15.203049,gaming_history_3,gaming,3,3,O2CSGlLNtyM,https://www.youtube.com/shorts/O2CSGlLNtyM,Gaming,6,8,1.5,0,1,2
+20260429_182059,2026-04-29T18:23:25.258946,gaming_history_3,gaming,3,3,i7rqTIE7v6M,https://www.youtube.com/shorts/i7rqTIE7v6M,Gaming,7,9,1.5,0,1,2
+20260429_182059,2026-04-29T18:23:45.388988,gaming_history_3,gaming,3,3,TPqEzwBtlgQ,https://www.youtube.com/shorts/TPqEzwBtlgQ,Entertainment,8,11,1.5,0,1,3
+20260429_182059,2026-04-29T18:23:54.748718,gaming_history_3,gaming,3,3,yQWcLH-iBlE,https://www.youtube.com/shorts/yQWcLH-iBlE,Entertainment,9,12,1.5,0,1,3
+20260429_182059,2026-04-29T18:24:14.482968,gaming_history_3,gaming,3,3,2WeICJNEHvQ,https://www.youtube.com/shorts/2WeICJNEHvQ,Education,10,14,1.5,0,1,4
+20260429_182059,2026-04-29T18:24:24.365712,gaming_history_3,gaming,3,3,buD13WHtsLo,https://www.youtube.com/shorts/buD13WHtsLo,People & Blogs,11,15,1.5,0,1,4
+20260429_182059,2026-04-29T18:24:34.101952,gaming_history_3,gaming,3,3,kCGUpu8Mrlg,https://www.youtube.com/shorts/kCGUpu8Mrlg,Gaming,12,16,1.5,0,1,4
+20260429_182059,2026-04-29T18:24:43.707815,gaming_history_3,gaming,3,3,N73RFggZenU,https://www.youtube.com/shorts/N73RFggZenU,People & Blogs,13,17,1.5,0,1,4
+20260429_182059,2026-04-29T18:24:53.406788,gaming_history_3,gaming,3,3,HgmbGsFMZpY,https://www.youtube.com/shorts/HgmbGsFMZpY,Entertainment,14,18,1.5,0,1,4
+20260429_182059,2026-04-29T18:25:03.177002,gaming_history_3,gaming,3,3,AoaURACf-4E,https://www.youtube.com/shorts/AoaURACf-4E,People & Blogs,15,19,1.5,0,1,4
+20260429_182510,2026-04-29T18:26:12.153922,gaming_history_3,gaming,3,3,Uh77XwbiIxg,https://www.youtube.com/shorts/Uh77XwbiIxg,Entertainment,1,1,1.5,0,1,0
+20260429_182510,2026-04-29T18:26:21.683441,gaming_history_3,gaming,3,3,2hm-JwaDCX4,https://www.youtube.com/shorts/2hm-JwaDCX4,People & Blogs,2,2,1.5,0,1,0
+20260429_182510,2026-04-29T18:26:31.502302,gaming_history_3,gaming,3,3,gL87Pia-4xs,https://www.youtube.com/shorts/gL87Pia-4xs,Gaming,3,3,1.5,0,1,0
+20260429_182510,2026-04-29T18:26:51.453333,gaming_history_3,gaming,3,3,osA4SOaXUu4,https://www.youtube.com/shorts/osA4SOaXUu4,People & Blogs,4,5,1.5,0,1,1
+20260429_182510,2026-04-29T18:27:01.171509,gaming_history_3,gaming,3,3,iV3iL1TSwAw,https://www.youtube.com/shorts/iV3iL1TSwAw,People & Blogs,5,6,1.5,0,1,1
+20260429_182510,2026-04-29T18:27:23.268383,gaming_history_3,gaming,3,3,r_n5w_UIRRE,https://www.youtube.com/shorts/r_n5w_UIRRE,People & Blogs,6,8,1.5,0,1,2
+20260429_182510,2026-04-29T18:27:32.979070,gaming_history_3,gaming,3,3,yQWcLH-iBlE,https://www.youtube.com/shorts/yQWcLH-iBlE,Entertainment,7,9,1.5,0,1,2
+20260429_182510,2026-04-29T18:27:42.865258,gaming_history_3,gaming,3,3,5PO2Lbl2Omo,https://www.youtube.com/shorts/5PO2Lbl2Omo,Comedy,8,10,1.5,0,1,2
+20260429_182510,2026-04-29T18:27:53.115315,gaming_history_3,gaming,3,3,2pgGGlEWzOM,https://www.youtube.com/shorts/2pgGGlEWzOM,People & Blogs,9,11,1.5,0,1,2
+20260429_182510,2026-04-29T18:28:13.423325,gaming_history_3,gaming,3,3,B3T3htiJmEQ,https://www.youtube.com/shorts/B3T3htiJmEQ,Entertainment,10,13,1.5,0,1,3
+20260429_182510,2026-04-29T18:28:22.981766,gaming_history_3,gaming,3,3,og70rqPmdHg,https://www.youtube.com/shorts/og70rqPmdHg,Entertainment,11,14,1.5,0,1,3
+20260429_182510,2026-04-29T18:28:32.474621,gaming_history_3,gaming,3,3,n1IltQjrOmA,https://www.youtube.com/shorts/n1IltQjrOmA,Entertainment,12,15,1.5,0,1,3
+20260429_182510,2026-04-29T18:28:42.118445,gaming_history_3,gaming,3,3,sF-qNq8IKhk,https://www.youtube.com/shorts/sF-qNq8IKhk,Gaming,13,16,1.5,0,1,3
+20260429_182510,2026-04-29T18:28:51.939931,gaming_history_3,gaming,3,3,wzhpiiDoc14,https://www.youtube.com/shorts/wzhpiiDoc14,Comedy,14,17,1.5,0,1,3
+20260429_182510,2026-04-29T18:29:01.970269,gaming_history_3,gaming,3,3,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,15,18,1.5,0,1,3
+20260429_182908,2026-04-29T18:30:09.354054,gaming_history_3,gaming,3,3,mHWe_qJ9qVo,https://www.youtube.com/shorts/mHWe_qJ9qVo,People & Blogs,1,1,1.5,0,1,0
+20260429_182908,2026-04-29T18:30:23.389075,gaming_history_3,gaming,3,3,jmXwz5O1-N8,https://www.youtube.com/shorts/jmXwz5O1-N8,People & Blogs,2,2,1.5,0,1,0
+20260429_182908,2026-04-29T18:30:33.518921,gaming_history_3,gaming,3,3,L_Ye6Pa5IjI,https://www.youtube.com/shorts/L_Ye6Pa5IjI,Entertainment,3,3,1.5,0,1,0
+20260429_182908,2026-04-29T18:30:43.350200,gaming_history_3,gaming,3,3,r_n5w_UIRRE,https://www.youtube.com/shorts/r_n5w_UIRRE,People & Blogs,4,4,1.5,0,1,0
+20260429_182908,2026-04-29T18:30:52.995595,gaming_history_3,gaming,3,3,PRlnP2VoSyY,https://www.youtube.com/shorts/PRlnP2VoSyY,Entertainment,5,5,1.5,0,1,0
+20260429_182908,2026-04-29T18:31:02.596767,gaming_history_3,gaming,3,3,nDGbE5B4V_Y,https://www.youtube.com/shorts/nDGbE5B4V_Y,People & Blogs,6,6,1.5,0,1,0
+20260429_182908,2026-04-29T18:31:12.579592,gaming_history_3,gaming,3,3,GhD32wiNB78,https://www.youtube.com/shorts/GhD32wiNB78,Gaming,7,7,1.5,0,1,0
+20260429_182908,2026-04-29T18:31:22.686680,gaming_history_3,gaming,3,3,pmaCflbEfmI,https://www.youtube.com/shorts/pmaCflbEfmI,Entertainment,8,8,1.5,0,1,0
+20260429_182908,2026-04-29T18:31:32.017744,gaming_history_3,gaming,3,3,WzYrcuqbLok,https://www.youtube.com/shorts/WzYrcuqbLok,Sports,9,9,1.5,0,1,0
+20260429_182908,2026-04-29T18:31:41.791572,gaming_history_3,gaming,3,3,KBIQUs3--CY,https://www.youtube.com/shorts/KBIQUs3--CY,People & Blogs,10,10,1.5,0,1,0
+20260429_182908,2026-04-29T18:31:51.635127,gaming_history_3,gaming,3,3,rJRLZbv9W7s,https://www.youtube.com/shorts/rJRLZbv9W7s,Gaming,11,11,1.5,0,1,0
+20260429_182908,2026-04-29T18:32:00.994633,gaming_history_3,gaming,3,3,4tJqyZUWGxQ,https://www.youtube.com/shorts/4tJqyZUWGxQ,Entertainment,12,12,1.5,0,1,0
+20260429_182908,2026-04-29T18:32:10.694009,gaming_history_3,gaming,3,3,KT3nxJdBcHg,https://www.youtube.com/shorts/KT3nxJdBcHg,Pets & Animals,13,13,1.5,0,1,0
+20260429_182908,2026-04-29T18:32:20.172121,gaming_history_3,gaming,3,3,YkIpSG2-aM8,https://www.youtube.com/shorts/YkIpSG2-aM8,Gaming,14,14,1.5,0,1,0
+20260429_182908,2026-04-29T18:32:29.720739,gaming_history_3,gaming,3,3,FG2y3Sm3jyw,https://www.youtube.com/shorts/FG2y3Sm3jyw,Gaming,15,15,1.5,0,1,0
+20260429_183236,2026-04-29T18:33:36.801431,gaming_history_3,gaming,3,3,dOOFAXe8qeU,https://www.youtube.com/shorts/dOOFAXe8qeU,Education,1,1,1.5,0,1,0
+20260429_183236,2026-04-29T18:33:50.776186,gaming_history_3,gaming,3,3,PZ8uiLrOwOU,https://www.youtube.com/shorts/PZ8uiLrOwOU,Gaming,2,2,1.5,0,1,0
+20260429_183236,2026-04-29T18:33:59.927370,gaming_history_3,gaming,3,3,SbEyBtlMhgg,https://www.youtube.com/shorts/SbEyBtlMhgg,People & Blogs,3,3,1.5,0,1,0
+20260429_183236,2026-04-29T18:34:19.486230,gaming_history_3,gaming,3,3,VaBrV6_g1m0,https://www.youtube.com/shorts/VaBrV6_g1m0,Entertainment,4,5,1.5,0,1,1
+20260429_183236,2026-04-29T18:34:28.968139,gaming_history_3,gaming,3,3,iWrU55CbrOY,https://www.youtube.com/shorts/iWrU55CbrOY,People & Blogs,5,6,1.5,0,1,1
+20260429_183236,2026-04-29T18:34:50.488702,gaming_history_3,gaming,3,3,DAcsVRkPSNM,https://www.youtube.com/shorts/DAcsVRkPSNM,People & Blogs,6,8,1.5,0,1,2
+20260429_183236,2026-04-29T18:35:00.082398,gaming_history_3,gaming,3,3,jePjoRWI_dA,https://www.youtube.com/shorts/jePjoRWI_dA,People & Blogs,7,9,1.5,0,1,2
+20260429_183236,2026-04-29T18:35:19.432015,gaming_history_3,gaming,3,3,hbp1KQVcs7c,https://www.youtube.com/shorts/hbp1KQVcs7c,People & Blogs,8,11,1.5,0,1,3
+20260429_183236,2026-04-29T18:35:28.799847,gaming_history_3,gaming,3,3,EH-JdsfAJ5I,https://www.youtube.com/shorts/EH-JdsfAJ5I,Entertainment,9,12,1.5,0,1,3
+20260429_183236,2026-04-29T18:35:48.397162,gaming_history_3,gaming,3,3,AH03WQZkvgI,https://www.youtube.com/shorts/AH03WQZkvgI,Gaming,10,14,1.5,0,1,4
+20260429_183236,2026-04-29T18:35:57.665204,gaming_history_3,gaming,3,3,cFkj5z6SkhQ,https://www.youtube.com/shorts/cFkj5z6SkhQ,Gaming,11,15,1.5,0,1,4
+20260429_183236,2026-04-29T18:36:07.096895,gaming_history_3,gaming,3,3,B36XgMfZiJk,https://www.youtube.com/shorts/B36XgMfZiJk,People & Blogs,12,16,1.5,0,1,4
+20260429_183236,2026-04-29T18:36:26.351707,gaming_history_3,gaming,3,3,Quk3PDJOqHo,https://www.youtube.com/shorts/Quk3PDJOqHo,People & Blogs,13,18,1.5,0,1,5
+20260429_183236,2026-04-29T18:36:35.768540,gaming_history_3,gaming,3,3,d64VGgpbSWE,https://www.youtube.com/shorts/d64VGgpbSWE,Entertainment,14,19,1.5,0,1,5
+20260429_183236,2026-04-29T18:36:55.483489,gaming_history_3,gaming,3,3,WjcAiIddf9M,https://www.youtube.com/shorts/WjcAiIddf9M,Gaming,15,21,1.5,0,1,6
+20260429_183702,2026-04-29T18:38:05.267220,gaming_history_3,gaming,3,3,UgQu0D-nc0A,https://www.youtube.com/shorts/UgQu0D-nc0A,Gaming,1,1,1.5,0,1,0
+20260429_183702,2026-04-29T18:38:14.710767,gaming_history_3,gaming,3,3,kQBRbM6mH6g,https://www.youtube.com/shorts/kQBRbM6mH6g,Gaming,2,2,1.5,0,1,0
+20260429_183702,2026-04-29T18:38:24.219018,gaming_history_3,gaming,3,3,rwkS4QPha-g,https://www.youtube.com/shorts/rwkS4QPha-g,Gaming,3,3,1.5,0,1,0
+20260429_183702,2026-04-29T18:38:43.884396,gaming_history_3,gaming,3,3,AJYA1WApNg4,https://www.youtube.com/shorts/AJYA1WApNg4,Gaming,4,5,1.5,0,1,1
+20260429_183702,2026-04-29T18:38:53.482428,gaming_history_3,gaming,3,3,YA6rmShJwMU,https://www.youtube.com/shorts/YA6rmShJwMU,Entertainment,5,6,1.5,0,1,1
+20260429_183702,2026-04-29T18:39:03.056679,gaming_history_3,gaming,3,3,vhyDgZ7cOws,https://www.youtube.com/shorts/vhyDgZ7cOws,Gaming,6,7,1.5,0,1,1
+20260429_183702,2026-04-29T18:39:14.604191,gaming_history_3,gaming,3,3,7jnFWvdqspQ,https://www.youtube.com/shorts/7jnFWvdqspQ,People & Blogs,7,8,1.5,0,1,1
+20260429_183702,2026-04-29T18:39:33.903039,gaming_history_3,gaming,3,3,x8RpQX1Z3Yw,https://www.youtube.com/shorts/x8RpQX1Z3Yw,Gaming,8,10,1.5,0,1,2
+20260429_183702,2026-04-29T18:39:44.036651,gaming_history_3,gaming,3,3,oukw5WxIXAk,https://www.youtube.com/shorts/oukw5WxIXAk,Entertainment,9,11,1.5,0,1,2
+20260429_183702,2026-04-29T18:39:53.467733,gaming_history_3,gaming,3,3,GIhwuLcthz0,https://www.youtube.com/shorts/GIhwuLcthz0,Comedy,10,12,1.5,0,1,2
+20260429_183702,2026-04-29T18:40:02.971641,gaming_history_3,gaming,3,3,tANA18_7vcI,https://www.youtube.com/shorts/tANA18_7vcI,Gaming,11,13,1.5,0,1,2
+20260429_183702,2026-04-29T18:40:13.120512,gaming_history_3,gaming,3,3,FeTPgXMF4NY,https://www.youtube.com/shorts/FeTPgXMF4NY,Gaming,12,14,1.5,0,1,2
+20260429_183702,2026-04-29T18:40:33.034372,gaming_history_3,gaming,3,3,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,13,16,1.5,0,1,3
+20260429_183702,2026-04-29T18:40:42.690804,gaming_history_3,gaming,3,3,TmUY_zloqZ8,https://www.youtube.com/shorts/TmUY_zloqZ8,Entertainment,14,17,1.5,0,1,3
+20260429_183702,2026-04-29T18:40:52.388555,gaming_history_3,gaming,3,3,agceP5tNamo,https://www.youtube.com/shorts/agceP5tNamo,Gaming,15,18,1.5,0,1,3
+20260429_191808,2026-04-29T19:19:13.870748,gaming_history_3,gaming,3,3,FVZqzNyyV0g,https://www.youtube.com/shorts/FVZqzNyyV0g,People & Blogs,1,1,1.5,0,1,0
+20260429_191808,2026-04-29T19:19:24.229659,gaming_history_3,gaming,3,3,9bMlVwidF0Q,https://www.youtube.com/shorts/9bMlVwidF0Q,Sports,2,2,1.5,0,1,0
+20260429_191808,2026-04-29T19:19:34.113359,gaming_history_3,gaming,3,3,R0zK-BMIyv4,https://www.youtube.com/shorts/R0zK-BMIyv4,People & Blogs,3,3,1.5,0,1,0
+20260429_191808,2026-04-29T19:19:43.796154,gaming_history_3,gaming,3,3,OTDdpmCQA74,https://www.youtube.com/shorts/OTDdpmCQA74,People & Blogs,4,4,1.5,0,1,0
+20260429_191808,2026-04-29T19:19:53.552241,gaming_history_3,gaming,3,3,SZnPfSXGZ1U,https://www.youtube.com/shorts/SZnPfSXGZ1U,Comedy,5,5,1.5,0,1,0
+20260429_191808,2026-04-29T19:20:13.378624,gaming_history_3,gaming,3,3,2CBGkiqa5to,https://www.youtube.com/shorts/2CBGkiqa5to,People & Blogs,6,7,1.5,0,1,1
+20260429_191808,2026-04-29T19:20:25.271114,gaming_history_3,gaming,3,3,gI5DuDkdcKs,https://www.youtube.com/shorts/gI5DuDkdcKs,People & Blogs,7,8,1.5,0,1,1
+20260429_191808,2026-04-29T19:20:45.207212,gaming_history_3,gaming,3,3,_Vuu_K3Amt0,https://www.youtube.com/shorts/_Vuu_K3Amt0,People & Blogs,8,10,1.5,0,1,2
+20260429_191808,2026-04-29T19:20:54.795642,gaming_history_3,gaming,3,3,hzogm2CfkCc,https://www.youtube.com/shorts/hzogm2CfkCc,People & Blogs,9,11,1.5,0,1,2
+20260429_191808,2026-04-29T19:21:04.513734,gaming_history_3,gaming,3,3,vZCZhIgv7zs,https://www.youtube.com/shorts/vZCZhIgv7zs,People & Blogs,10,12,1.5,0,1,2
+20260429_191808,2026-04-29T19:21:13.836273,gaming_history_3,gaming,3,3,Qp9G6TZpLOo,https://www.youtube.com/shorts/Qp9G6TZpLOo,People & Blogs,11,13,1.5,0,1,2
+20260429_191808,2026-04-29T19:21:33.935022,gaming_history_3,gaming,3,3,FSlQjw-V2No,https://www.youtube.com/shorts/FSlQjw-V2No,Entertainment,12,15,1.5,0,1,3
+20260429_191808,2026-04-29T19:21:43.710426,gaming_history_3,gaming,3,3,tGX8gCjI2c4,https://www.youtube.com/shorts/tGX8gCjI2c4,People & Blogs,13,16,1.5,0,1,3
+20260429_191808,2026-04-29T19:21:52.827794,gaming_history_3,gaming,3,3,wzHTIyvmI74,https://www.youtube.com/shorts/wzHTIyvmI74,People & Blogs,14,17,1.5,0,1,3
+20260429_191808,2026-04-29T19:22:02.505182,gaming_history_3,gaming,3,3,ZIOQQ1DS-bY,https://www.youtube.com/shorts/ZIOQQ1DS-bY,People & Blogs,15,18,1.5,0,1,3
+20260429_192209,2026-04-29T19:23:09.008822,gaming_history_3,gaming,3,3,0G4Yc3mtitM,https://www.youtube.com/shorts/0G4Yc3mtitM,Entertainment,1,1,1.5,0,1,0
+20260429_192209,2026-04-29T19:23:18.194217,gaming_history_3,gaming,3,3,ptQmWuYnvB8,https://www.youtube.com/shorts/ptQmWuYnvB8,Entertainment,2,2,1.5,0,1,0
+20260429_192209,2026-04-29T19:23:37.427709,gaming_history_3,gaming,3,3,61MVuwOHAmo,https://www.youtube.com/shorts/61MVuwOHAmo,Sports,3,4,1.5,0,1,1
+20260429_192209,2026-04-29T19:23:46.351923,gaming_history_3,gaming,3,3,bxAFCNy4Y6E,https://www.youtube.com/shorts/bxAFCNy4Y6E,Film & Animation,4,5,1.5,0,1,1
+20260429_192209,2026-04-29T19:24:05.140000,gaming_history_3,gaming,3,3,5U5irQ5ogFM,https://www.youtube.com/shorts/5U5irQ5ogFM,Entertainment,5,7,1.5,0,1,2
+20260429_192209,2026-04-29T19:24:14.356458,gaming_history_3,gaming,3,3,f0s4IWPmux0,https://www.youtube.com/shorts/f0s4IWPmux0,Education,6,8,1.5,0,1,2
+20260429_192209,2026-04-29T19:24:33.059085,gaming_history_3,gaming,3,3,lq0Rztxs_Ns,https://www.youtube.com/shorts/lq0Rztxs_Ns,Entertainment,7,10,1.5,0,1,3
+20260429_192209,2026-04-29T19:24:42.183339,gaming_history_3,gaming,3,3,OSYllbqGfnA,https://www.youtube.com/shorts/OSYllbqGfnA,Comedy,8,11,1.5,0,1,3
+20260429_192209,2026-04-29T19:25:01.228913,gaming_history_3,gaming,3,3,mE6e5SN6wVw,https://www.youtube.com/shorts/mE6e5SN6wVw,Entertainment,9,13,1.5,0,1,4
+20260429_192209,2026-04-29T19:25:10.081830,gaming_history_3,gaming,3,3,ZeDRhKG2lfE,https://www.youtube.com/shorts/ZeDRhKG2lfE,Entertainment,10,14,1.5,0,1,4
+20260429_192209,2026-04-29T19:25:19.029344,gaming_history_3,gaming,3,3,rRbPco9F4QU,https://www.youtube.com/shorts/rRbPco9F4QU,Entertainment,11,15,1.5,0,1,4
+20260429_192209,2026-04-29T19:25:28.023586,gaming_history_3,gaming,3,3,bmq8DGfkJJI,https://www.youtube.com/shorts/bmq8DGfkJJI,People & Blogs,12,16,1.5,0,1,4
+20260429_192209,2026-04-29T19:25:47.373804,gaming_history_3,gaming,3,3,aHrK586PVeI,https://www.youtube.com/shorts/aHrK586PVeI,Sports,13,18,1.5,0,1,5
+20260429_192209,2026-04-29T19:25:56.238569,gaming_history_3,gaming,3,3,oZ8s3N-_qAg,https://www.youtube.com/shorts/oZ8s3N-_qAg,Gaming,14,19,1.5,0,1,5
+20260429_192209,2026-04-29T19:26:14.798695,gaming_history_3,gaming,3,3,rzSXZX3U760,https://www.youtube.com/shorts/rzSXZX3U760,People & Blogs,15,21,1.5,0,1,6
+20260429_192621,2026-04-29T19:27:22.341930,gaming_history_3,gaming,3,3,ejdo53bwaBM,https://www.youtube.com/shorts/ejdo53bwaBM,People & Blogs,1,1,1.5,0,1,0
+20260429_192621,2026-04-29T19:27:33.753076,gaming_history_3,gaming,3,3,uTik5oxWpBw,https://www.youtube.com/shorts/uTik5oxWpBw,People & Blogs,2,2,1.5,0,1,0
+20260429_192621,2026-04-29T19:27:43.361907,gaming_history_3,gaming,3,3,w08PAjIQF6s,https://www.youtube.com/shorts/w08PAjIQF6s,Entertainment,3,3,1.5,0,1,0
+20260429_192621,2026-04-29T19:28:03.385228,gaming_history_3,gaming,3,3,PZqs19CPHTo,https://www.youtube.com/shorts/PZqs19CPHTo,People & Blogs,4,5,1.5,0,1,1
+20260429_192621,2026-04-29T19:28:12.972388,gaming_history_3,gaming,3,3,u2vd0ligsKo,https://www.youtube.com/shorts/u2vd0ligsKo,People & Blogs,5,6,1.5,0,1,1
+20260429_192621,2026-04-29T19:28:22.500335,gaming_history_3,gaming,3,3,z7Fg5q0yM70,https://www.youtube.com/shorts/z7Fg5q0yM70,Entertainment,6,7,1.5,0,1,1
+20260429_192621,2026-04-29T19:28:34.166129,gaming_history_3,gaming,3,3,wvHuDxTOt8c,https://www.youtube.com/shorts/wvHuDxTOt8c,Film & Animation,7,8,1.5,0,1,1
+20260429_192621,2026-04-29T19:28:54.161692,gaming_history_3,gaming,3,3,kSYdYLwZZdU,https://www.youtube.com/shorts/kSYdYLwZZdU,People & Blogs,8,10,1.5,0,1,2
+20260429_192621,2026-04-29T19:29:03.662872,gaming_history_3,gaming,3,3,3p1cCP8S1o0,https://www.youtube.com/shorts/3p1cCP8S1o0,Film & Animation,9,11,1.5,0,1,2
+20260429_192621,2026-04-29T19:29:13.604654,gaming_history_3,gaming,3,3,ESOk-6Ve2vo,https://www.youtube.com/shorts/ESOk-6Ve2vo,Gaming,10,12,1.5,0,1,2
+20260429_192621,2026-04-29T19:29:23.064984,gaming_history_3,gaming,3,3,Ihs1lcapTqg,https://www.youtube.com/shorts/Ihs1lcapTqg,Gaming,11,13,1.5,0,1,2
+20260429_192621,2026-04-29T19:29:42.900724,gaming_history_3,gaming,3,3,sUd-YayjFkM,https://www.youtube.com/shorts/sUd-YayjFkM,Entertainment,12,15,1.5,0,1,3
+20260429_192621,2026-04-29T19:29:52.475051,gaming_history_3,gaming,3,3,R0zK-BMIyv4,https://www.youtube.com/shorts/R0zK-BMIyv4,People & Blogs,13,16,1.5,0,1,3
+20260429_192621,2026-04-29T19:30:02.420425,gaming_history_3,gaming,3,3,B1XgdiU3xgE,https://www.youtube.com/shorts/B1XgdiU3xgE,People & Blogs,14,17,1.5,0,1,3
+20260429_192621,2026-04-29T19:30:12.118767,gaming_history_3,gaming,3,3,9D-h4qqJQHA,https://www.youtube.com/shorts/9D-h4qqJQHA,Entertainment,15,18,1.5,0,1,3
+20260429_193020,2026-04-29T19:31:20.235919,gaming_history_3,gaming,3,3,-yceAtbBd7U,https://www.youtube.com/shorts/-yceAtbBd7U,Gaming,1,1,1.5,0,1,0
+20260429_193020,2026-04-29T19:31:32.089101,gaming_history_3,gaming,3,3,_xiqACyMbwg,https://www.youtube.com/shorts/_xiqACyMbwg,Gaming,2,2,1.5,0,1,0
+20260429_193020,2026-04-29T19:31:41.744450,gaming_history_3,gaming,3,3,koz9ftAy1q8,https://www.youtube.com/shorts/koz9ftAy1q8,Gaming,3,3,1.5,0,1,0
+20260429_193020,2026-04-29T19:32:01.713073,gaming_history_3,gaming,3,3,QH1HzsVpowM,https://www.youtube.com/shorts/QH1HzsVpowM,Gaming,4,5,1.5,0,1,1
+20260429_193020,2026-04-29T19:32:15.041231,gaming_history_3,gaming,3,3,Pt1Syn4uswc,https://www.youtube.com/shorts/Pt1Syn4uswc,Entertainment,5,6,1.5,0,1,1
+20260429_193020,2026-04-29T19:32:27.466142,gaming_history_3,gaming,3,3,1x0Y_xGGC1A,https://www.youtube.com/shorts/1x0Y_xGGC1A,Gaming,6,7,1.5,0,1,1
+20260429_193020,2026-04-29T19:32:40.816810,gaming_history_3,gaming,3,3,OntFWASMwks,https://www.youtube.com/shorts/OntFWASMwks,People & Blogs,7,8,1.5,0,1,1
+20260429_193020,2026-04-29T19:33:02.360657,gaming_history_3,gaming,3,3,L5TbzGWpG7w,https://www.youtube.com/shorts/L5TbzGWpG7w,People & Blogs,8,10,1.5,0,1,2
+20260429_193020,2026-04-29T19:33:11.445460,gaming_history_3,gaming,3,3,0vkuY29IOUA,https://www.youtube.com/shorts/0vkuY29IOUA,Film & Animation,9,11,1.5,0,1,2
+20260429_193020,2026-04-29T19:33:30.460569,gaming_history_3,gaming,3,3,tEAJmTWdknY,https://www.youtube.com/shorts/tEAJmTWdknY,People & Blogs,10,13,1.5,0,1,3
+20260429_193020,2026-04-29T19:33:40.100536,gaming_history_3,gaming,3,3,guvCZUssePI,https://www.youtube.com/shorts/guvCZUssePI,People & Blogs,11,14,1.5,0,1,3
+20260429_193020,2026-04-29T19:33:51.198755,gaming_history_3,gaming,3,3,RjSbUkQyiao,https://www.youtube.com/shorts/RjSbUkQyiao,Entertainment,12,15,1.5,0,1,3
+20260429_193020,2026-04-29T19:34:00.360917,gaming_history_3,gaming,3,3,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,13,16,1.5,0,1,3
+20260429_193020,2026-04-29T19:34:10.007617,gaming_history_3,gaming,3,3,82WHX9NqkWE,https://www.youtube.com/shorts/82WHX9NqkWE,Entertainment,14,17,1.5,0,1,3
+20260429_193020,2026-04-29T19:34:19.465927,gaming_history_3,gaming,3,3,6WqqBT2aEOc,https://www.youtube.com/shorts/6WqqBT2aEOc,Entertainment,15,18,1.5,0,1,3
+20260429_193426,2026-04-29T19:35:28.546442,gaming_history_3,gaming,3,3,ypGkPtf3az0,https://www.youtube.com/shorts/ypGkPtf3az0,Sports,1,1,1.5,0,1,0
+20260429_193426,2026-04-29T19:35:39.756988,gaming_history_3,gaming,3,3,9mnvjqvSEgM,https://www.youtube.com/shorts/9mnvjqvSEgM,Sports,2,2,1.5,0,1,0
+20260429_193426,2026-04-29T19:35:49.460709,gaming_history_3,gaming,3,3,Obkz_5LlU4w,https://www.youtube.com/shorts/Obkz_5LlU4w,Entertainment,3,3,1.5,0,1,0
+20260429_193426,2026-04-29T19:36:08.804132,gaming_history_3,gaming,3,3,gL87Pia-4xs,https://www.youtube.com/shorts/gL87Pia-4xs,Gaming,4,5,1.5,0,1,1
+20260429_193426,2026-04-29T19:36:18.035246,gaming_history_3,gaming,3,3,tEPuMWqI3EY,https://www.youtube.com/shorts/tEPuMWqI3EY,Entertainment,5,6,1.5,0,1,1
+20260429_193426,2026-04-29T19:36:39.626511,gaming_history_3,gaming,3,3,hysFdhuQ7V4,https://www.youtube.com/shorts/hysFdhuQ7V4,People & Blogs,6,8,1.5,0,1,2
+20260429_193426,2026-04-29T19:36:49.086596,gaming_history_3,gaming,3,3,YkIpSG2-aM8,https://www.youtube.com/shorts/YkIpSG2-aM8,Gaming,7,9,1.5,0,1,2
+20260429_193426,2026-04-29T19:36:58.475159,gaming_history_3,gaming,3,3,WUw-jAbsrgw,https://www.youtube.com/shorts/WUw-jAbsrgw,Entertainment,8,10,1.5,0,1,2
+20260429_193426,2026-04-29T19:37:08.085729,gaming_history_3,gaming,3,3,RjSbUkQyiao,https://www.youtube.com/shorts/RjSbUkQyiao,Entertainment,9,11,1.5,0,1,2
+20260429_193426,2026-04-29T19:37:26.977445,gaming_history_3,gaming,3,3,YBfayS7THlw,https://www.youtube.com/shorts/YBfayS7THlw,Sports,10,13,1.5,0,1,3
+20260429_193426,2026-04-29T19:37:36.498355,gaming_history_3,gaming,3,3,V1EmcJ4CZzA,https://www.youtube.com/shorts/V1EmcJ4CZzA,Gaming,11,14,1.5,0,1,3
+20260429_193426,2026-04-29T19:37:46.089583,gaming_history_3,gaming,3,3,0Ab2bH-iPdA,https://www.youtube.com/shorts/0Ab2bH-iPdA,Entertainment,12,15,1.5,0,1,3
+20260429_193426,2026-04-29T19:37:55.715364,gaming_history_3,gaming,3,3,aB-Negta4wk,https://www.youtube.com/shorts/aB-Negta4wk,People & Blogs,13,16,1.5,0,1,3
+20260429_193426,2026-04-29T19:38:15.154984,gaming_history_3,gaming,3,3,gtzCMCFa1QM,https://www.youtube.com/shorts/gtzCMCFa1QM,Gaming,14,18,1.5,0,1,4
+20260429_193426,2026-04-29T19:38:24.430108,gaming_history_3,gaming,3,3,AymVXcuZykY,https://www.youtube.com/shorts/AymVXcuZykY,People & Blogs,15,19,1.5,0,1,4
+20260429_193828,2026-04-29T19:40:33.771077,gaming_history_8,gaming,8,8,9mqx2Vi2xQA,https://www.youtube.com/shorts/9mqx2Vi2xQA,Film & Animation,1,1,1.5,0,1,0
+20260429_193828,2026-04-29T19:40:45.223802,gaming_history_8,gaming,8,8,quFkJZF7CRI,https://www.youtube.com/shorts/quFkJZF7CRI,Film & Animation,2,2,1.5,0,1,0
+20260429_193828,2026-04-29T19:40:54.313435,gaming_history_8,gaming,8,8,l6c9UaelVsw,https://www.youtube.com/shorts/l6c9UaelVsw,People & Blogs,3,3,1.5,0,1,0
+20260429_193828,2026-04-29T19:41:03.408329,gaming_history_8,gaming,8,8,MiVgMu52Hpc,https://www.youtube.com/shorts/MiVgMu52Hpc,Gaming,4,4,1.5,0,1,0
+20260429_193828,2026-04-29T19:41:22.274192,gaming_history_8,gaming,8,8,1Cpol5eaCDw,https://www.youtube.com/shorts/1Cpol5eaCDw,People & Blogs,5,6,1.5,0,1,1
+20260429_193828,2026-04-29T19:41:31.138392,gaming_history_8,gaming,8,8,NzkbG0h2JFQ,https://www.youtube.com/shorts/NzkbG0h2JFQ,People & Blogs,6,7,1.5,0,1,1
+20260429_193828,2026-04-29T19:41:40.150639,gaming_history_8,gaming,8,8,v7zqXnKflGI,https://www.youtube.com/shorts/v7zqXnKflGI,People & Blogs,7,8,1.5,0,1,1
+20260429_193828,2026-04-29T19:41:49.514581,gaming_history_8,gaming,8,8,FLWp_SDb4p8,https://www.youtube.com/shorts/FLWp_SDb4p8,Education,8,9,1.5,0,1,1
+20260429_193828,2026-04-29T19:42:07.952885,gaming_history_8,gaming,8,8,D2DXwACsjoo,https://www.youtube.com/shorts/D2DXwACsjoo,People & Blogs,9,11,1.5,0,1,2
+20260429_193828,2026-04-29T19:42:17.172171,gaming_history_8,gaming,8,8,nPIxFARWN1k,https://www.youtube.com/shorts/nPIxFARWN1k,Entertainment,10,12,1.5,0,1,2
+20260429_193828,2026-04-29T19:42:26.490799,gaming_history_8,gaming,8,8,s4HMDfJpzpM,https://www.youtube.com/shorts/s4HMDfJpzpM,Gaming,11,13,1.5,0,1,2
+20260429_193828,2026-04-29T19:42:35.648641,gaming_history_8,gaming,8,8,IhgYC8EN4ZI,https://www.youtube.com/shorts/IhgYC8EN4ZI,Music,12,14,1.5,0,1,2
+20260429_193828,2026-04-29T19:42:55.543064,gaming_history_8,gaming,8,8,Re8huYpyVDU,https://www.youtube.com/shorts/Re8huYpyVDU,Gaming,13,16,1.5,0,1,3
+20260429_193828,2026-04-29T19:43:05.036688,gaming_history_8,gaming,8,8,8I81hUfxb-c,https://www.youtube.com/shorts/8I81hUfxb-c,People & Blogs,14,17,1.5,0,1,3
+20260429_193828,2026-04-29T19:43:14.558967,gaming_history_8,gaming,8,8,Oe4CXzJgE9o,https://www.youtube.com/shorts/Oe4CXzJgE9o,People & Blogs,15,18,1.5,0,1,3
+20260429_194321,2026-04-29T19:45:20.644009,gaming_history_8,gaming,8,8,Nal-3dAiBa8,https://www.youtube.com/shorts/Nal-3dAiBa8,Gaming,1,1,1.5,0,1,0
+20260429_194321,2026-04-29T19:45:35.022088,gaming_history_8,gaming,8,8,zbQL3rGMNrQ,https://www.youtube.com/shorts/zbQL3rGMNrQ,Entertainment,2,2,1.5,0,1,0
+20260429_194321,2026-04-29T19:45:45.049330,gaming_history_8,gaming,8,8,PRbLZkwdRhk,https://www.youtube.com/shorts/PRbLZkwdRhk,People & Blogs,3,3,1.5,0,1,0
+20260429_194321,2026-04-29T19:45:53.926715,gaming_history_8,gaming,8,8,SeoyebltHEc,https://www.youtube.com/shorts/SeoyebltHEc,People & Blogs,4,4,1.5,0,1,0
+20260429_194321,2026-04-29T19:46:13.401938,gaming_history_8,gaming,8,8,WLsuwTDJc-4,https://www.youtube.com/shorts/WLsuwTDJc-4,Gaming,5,6,1.5,0,1,1
+20260429_194321,2026-04-29T19:46:24.452287,gaming_history_8,gaming,8,8,_nJZQ3rk610,https://www.youtube.com/shorts/_nJZQ3rk610,People & Blogs,6,7,1.5,0,1,1
+20260429_194321,2026-04-29T19:46:33.649908,gaming_history_8,gaming,8,8,vvOsgLVZXxY,https://www.youtube.com/shorts/vvOsgLVZXxY,Gaming,7,8,1.5,0,1,1
+20260429_194321,2026-04-29T19:46:43.389475,gaming_history_8,gaming,8,8,FImQzmpWZCw,https://www.youtube.com/shorts/FImQzmpWZCw,Gaming,8,9,1.5,0,1,1
+20260429_194321,2026-04-29T19:46:52.733891,gaming_history_8,gaming,8,8,j5Qr8OtSTJ0,https://www.youtube.com/shorts/j5Qr8OtSTJ0,Entertainment,9,10,1.5,0,1,1
+20260429_194321,2026-04-29T19:47:02.513546,gaming_history_8,gaming,8,8,uLhJhV8zikE,https://www.youtube.com/shorts/uLhJhV8zikE,Gaming,10,11,1.5,0,1,1
+20260429_194321,2026-04-29T19:47:21.289932,gaming_history_8,gaming,8,8,yF3g7YdTsAs,https://www.youtube.com/shorts/yF3g7YdTsAs,Entertainment,11,13,1.5,0,1,2
+20260429_194321,2026-04-29T19:47:30.401184,gaming_history_8,gaming,8,8,LxgX9QHFwrE,https://www.youtube.com/shorts/LxgX9QHFwrE,Gaming,12,14,1.5,0,1,2
+20260429_194321,2026-04-29T19:47:40.137026,gaming_history_8,gaming,8,8,AH03WQZkvgI,https://www.youtube.com/shorts/AH03WQZkvgI,Gaming,13,15,1.5,0,1,2
+20260429_194321,2026-04-29T19:47:49.405177,gaming_history_8,gaming,8,8,eWWCRE-Xvgk,https://www.youtube.com/shorts/eWWCRE-Xvgk,Gaming,14,16,1.5,0,1,2
+20260429_194321,2026-04-29T19:48:07.826783,gaming_history_8,gaming,8,8,1hnJ3JHVY1o,https://www.youtube.com/shorts/1hnJ3JHVY1o,Entertainment,15,18,1.5,0,1,3
+20260429_194814,2026-04-29T19:50:15.813069,gaming_history_8,gaming,8,8,-yceAtbBd7U,https://www.youtube.com/shorts/-yceAtbBd7U,Gaming,1,1,1.5,0,1,0
+20260429_194814,2026-04-29T19:50:27.230335,gaming_history_8,gaming,8,8,vmK5_-5rGEo,https://www.youtube.com/shorts/vmK5_-5rGEo,Gaming,2,2,1.5,0,1,0
+20260429_194814,2026-04-29T19:50:36.358480,gaming_history_8,gaming,8,8,4naKAkuUfOg,https://www.youtube.com/shorts/4naKAkuUfOg,Gaming,3,3,1.5,0,1,0
+20260429_194814,2026-04-29T19:50:55.699596,gaming_history_8,gaming,8,8,KPBL0WU-wAk,https://www.youtube.com/shorts/KPBL0WU-wAk,People & Blogs,4,5,1.5,0,1,1
+20260429_194814,2026-04-29T19:51:04.642480,gaming_history_8,gaming,8,8,j6bqIWqOWkE,https://www.youtube.com/shorts/j6bqIWqOWkE,People & Blogs,5,6,1.5,0,1,1
+20260429_194814,2026-04-29T19:51:26.251367,gaming_history_8,gaming,8,8,osvC5dCGV-w,https://www.youtube.com/shorts/osvC5dCGV-w,People & Blogs,6,8,1.5,0,1,2
+20260429_194814,2026-04-29T19:51:35.257490,gaming_history_8,gaming,8,8,r0SkTTycDak,https://www.youtube.com/shorts/r0SkTTycDak,Gaming,7,9,1.5,0,1,2
+20260429_194814,2026-04-29T19:51:45.781455,gaming_history_8,gaming,8,8,WUw-jAbsrgw,https://www.youtube.com/shorts/WUw-jAbsrgw,Entertainment,8,10,1.5,0,1,2
+20260429_194814,2026-04-29T19:51:54.844361,gaming_history_8,gaming,8,8,W9Z_NE5CwuE,https://www.youtube.com/shorts/W9Z_NE5CwuE,Music,9,11,1.5,0,1,2
+20260429_194814,2026-04-29T19:52:13.778937,gaming_history_8,gaming,8,8,GIhwuLcthz0,https://www.youtube.com/shorts/GIhwuLcthz0,Comedy,10,13,1.5,0,1,3
+20260429_194814,2026-04-29T19:52:23.274714,gaming_history_8,gaming,8,8,LlwMUfxHrcI,https://www.youtube.com/shorts/LlwMUfxHrcI,Entertainment,11,14,1.5,0,1,3
+20260429_194814,2026-04-29T19:52:32.492070,gaming_history_8,gaming,8,8,cGKIQDM731M,https://www.youtube.com/shorts/cGKIQDM731M,Gaming,12,15,1.5,0,1,3
+20260429_194814,2026-04-29T19:52:41.706271,gaming_history_8,gaming,8,8,84-mRwyShWE,https://www.youtube.com/shorts/84-mRwyShWE,People & Blogs,13,16,1.5,0,1,3
+20260429_194814,2026-04-29T19:52:51.065976,gaming_history_8,gaming,8,8,gr_Nryaa_Wc,https://www.youtube.com/shorts/gr_Nryaa_Wc,Gaming,14,17,1.5,0,1,3
+20260429_194814,2026-04-29T19:53:10.069804,gaming_history_8,gaming,8,8,B5fKbdkFG4U,https://www.youtube.com/shorts/B5fKbdkFG4U,Entertainment,15,19,1.5,0,1,4
+20260429_195317,2026-04-29T19:55:14.155985,gaming_history_8,gaming,8,8,CViU8pubr-0,https://www.youtube.com/shorts/CViU8pubr-0,People & Blogs,1,1,1.5,0,1,0
+20260429_195317,2026-04-29T19:55:27.383607,gaming_history_8,gaming,8,8,co0fLM42ODk,https://www.youtube.com/shorts/co0fLM42ODk,Entertainment,2,2,1.5,0,1,0
+20260429_195317,2026-04-29T19:55:36.405066,gaming_history_8,gaming,8,8,b42_GgWgH6s,https://www.youtube.com/shorts/b42_GgWgH6s,People & Blogs,3,3,1.5,0,1,0
+20260429_195317,2026-04-29T19:55:45.379761,gaming_history_8,gaming,8,8,vvOsgLVZXxY,https://www.youtube.com/shorts/vvOsgLVZXxY,Gaming,4,4,1.5,0,1,0
+20260429_195317,2026-04-29T19:56:04.174654,gaming_history_8,gaming,8,8,Hxj3JoS9KwU,https://www.youtube.com/shorts/Hxj3JoS9KwU,People & Blogs,5,6,1.5,0,1,1
+20260429_195317,2026-04-29T19:56:13.250115,gaming_history_8,gaming,8,8,T_FhDo-qh_A,https://www.youtube.com/shorts/T_FhDo-qh_A,Entertainment,6,7,1.5,0,1,1
+20260429_195317,2026-04-29T19:56:33.173855,gaming_history_8,gaming,8,8,lGJkSdGh6mg,https://www.youtube.com/shorts/lGJkSdGh6mg,Music,7,9,1.5,0,1,2
+20260429_195317,2026-04-29T19:56:42.791007,gaming_history_8,gaming,8,8,eOoA73s5q1A,https://www.youtube.com/shorts/eOoA73s5q1A,People & Blogs,8,10,1.5,0,1,2
+20260429_195317,2026-04-29T19:56:51.862715,gaming_history_8,gaming,8,8,CQrkenPLoZs,https://www.youtube.com/shorts/CQrkenPLoZs,Entertainment,9,11,1.5,0,1,2
+20260429_195317,2026-04-29T19:57:10.522586,gaming_history_8,gaming,8,8,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,10,13,1.5,0,1,3
+20260429_195317,2026-04-29T19:57:19.470512,gaming_history_8,gaming,8,8,5mf0qHhFyUQ,https://www.youtube.com/shorts/5mf0qHhFyUQ,Entertainment,11,14,1.5,0,1,3
+20260429_195317,2026-04-29T19:57:28.686306,gaming_history_8,gaming,8,8,Xn7I7VOnVOA,https://www.youtube.com/shorts/Xn7I7VOnVOA,Science & Technology,12,15,1.5,0,1,3
+20260429_195317,2026-04-29T19:57:37.983460,gaming_history_8,gaming,8,8,aYgu4lu-6A8,https://www.youtube.com/shorts/aYgu4lu-6A8,People & Blogs,13,16,1.5,0,1,3
+20260429_195317,2026-04-29T19:57:56.812825,gaming_history_8,gaming,8,8,cGKIQDM731M,https://www.youtube.com/shorts/cGKIQDM731M,Gaming,14,18,1.5,0,1,4
+20260429_195317,2026-04-29T19:58:05.682729,gaming_history_8,gaming,8,8,LITd14r-Hpk,https://www.youtube.com/shorts/LITd14r-Hpk,People & Blogs,15,19,1.5,0,1,4
+20260429_195812,2026-04-29T20:00:14.795193,gaming_history_8,gaming,8,8,dJUt4pxIaxw,https://www.youtube.com/shorts/dJUt4pxIaxw,Entertainment,1,1,1.5,0,1,0
+20260429_195812,2026-04-29T20:00:24.568331,gaming_history_8,gaming,8,8,2kxsLcp42Cg,https://www.youtube.com/shorts/2kxsLcp42Cg,Sports,2,2,1.5,0,1,0
+20260429_195812,2026-04-29T20:00:33.497675,gaming_history_8,gaming,8,8,CI6YtC3E-BQ,https://www.youtube.com/shorts/CI6YtC3E-BQ,Gaming,3,3,1.5,0,1,0
+20260429_195812,2026-04-29T20:00:43.003387,gaming_history_8,gaming,8,8,Xs4-triG2JU,https://www.youtube.com/shorts/Xs4-triG2JU,People & Blogs,4,4,1.5,0,1,0
+20260429_195812,2026-04-29T20:00:52.434175,gaming_history_8,gaming,8,8,T0e9GHg3NqE,https://www.youtube.com/shorts/T0e9GHg3NqE,Sports,5,5,1.5,0,1,0
+20260429_195812,2026-04-29T20:01:01.708882,gaming_history_8,gaming,8,8,1hnJ3JHVY1o,https://www.youtube.com/shorts/1hnJ3JHVY1o,Entertainment,6,6,1.5,0,1,0
+20260429_195812,2026-04-29T20:01:10.766030,gaming_history_8,gaming,8,8,Cre01yyxIyo,https://www.youtube.com/shorts/Cre01yyxIyo,Entertainment,7,7,1.5,0,1,0
+20260429_195812,2026-04-29T20:01:19.476474,gaming_history_8,gaming,8,8,a1f1qvBn0bo,https://www.youtube.com/shorts/a1f1qvBn0bo,Gaming,8,8,1.5,0,1,0
+20260429_195812,2026-04-29T20:01:29.044251,gaming_history_8,gaming,8,8,4RUSQg2QUJY,https://www.youtube.com/shorts/4RUSQg2QUJY,Entertainment,9,9,1.5,0,1,0
+20260429_195812,2026-04-29T20:01:38.537763,gaming_history_8,gaming,8,8,fWh8aKXmhkE,https://www.youtube.com/shorts/fWh8aKXmhkE,People & Blogs,10,10,1.5,0,1,0
+20260429_195812,2026-04-29T20:01:48.302234,gaming_history_8,gaming,8,8,M5mKCncAWCY,https://www.youtube.com/shorts/M5mKCncAWCY,Gaming,11,11,1.5,0,1,0
+20260429_195812,2026-04-29T20:01:57.604523,gaming_history_8,gaming,8,8,5DLCoSeSxr4,https://www.youtube.com/shorts/5DLCoSeSxr4,Gaming,12,12,1.5,0,1,0
+20260429_195812,2026-04-29T20:02:07.109029,gaming_history_8,gaming,8,8,GW6PUlvWOhk,https://www.youtube.com/shorts/GW6PUlvWOhk,Gaming,13,13,1.5,0,1,0
+20260429_195812,2026-04-29T20:02:16.612606,gaming_history_8,gaming,8,8,cGKIQDM731M,https://www.youtube.com/shorts/cGKIQDM731M,Gaming,14,14,1.5,0,1,0
+20260429_195812,2026-04-29T20:02:26.521113,gaming_history_8,gaming,8,8,13JtL8Amnb0,https://www.youtube.com/shorts/13JtL8Amnb0,People & Blogs,15,15,1.5,0,1,0
+20260429_200237,2026-04-29T20:04:32.277039,gaming_history_8,gaming,8,8,fNr7n4nsmI8,https://www.youtube.com/shorts/fNr7n4nsmI8,People & Blogs,1,1,1.5,0,1,0
+20260429_200237,2026-04-29T20:04:43.355854,gaming_history_8,gaming,8,8,Udt7SsWZ6C8,https://www.youtube.com/shorts/Udt7SsWZ6C8,Gaming,2,2,1.5,0,1,0
+20260429_200237,2026-04-29T20:04:52.489471,gaming_history_8,gaming,8,8,nod3RbKki70,https://www.youtube.com/shorts/nod3RbKki70,Entertainment,3,3,1.5,0,1,0
+20260429_200237,2026-04-29T20:05:02.608696,gaming_history_8,gaming,8,8,j5Qr8OtSTJ0,https://www.youtube.com/shorts/j5Qr8OtSTJ0,Entertainment,4,4,1.5,0,1,0
+20260429_200237,2026-04-29T20:05:12.049436,gaming_history_8,gaming,8,8,QLDaE6jSXOE,https://www.youtube.com/shorts/QLDaE6jSXOE,Film & Animation,5,5,1.5,0,1,0
+20260429_200237,2026-04-29T20:05:31.507504,gaming_history_8,gaming,8,8,MiVgMu52Hpc,https://www.youtube.com/shorts/MiVgMu52Hpc,Gaming,6,7,1.5,0,1,1
+20260429_200237,2026-04-29T20:05:40.692447,gaming_history_8,gaming,8,8,DAVYuZxB1Uk,https://www.youtube.com/shorts/DAVYuZxB1Uk,Gaming,7,8,1.5,0,1,1
+20260429_200237,2026-04-29T20:05:49.809310,gaming_history_8,gaming,8,8,j_StmgE2rMI,https://www.youtube.com/shorts/j_StmgE2rMI,Entertainment,8,9,1.5,0,1,1
+20260429_200237,2026-04-29T20:05:58.849354,gaming_history_8,gaming,8,8,PQ9E3JzJ3hI,https://www.youtube.com/shorts/PQ9E3JzJ3hI,Entertainment,9,10,1.5,0,1,1
+20260429_200237,2026-04-29T20:06:17.745659,gaming_history_8,gaming,8,8,AH03WQZkvgI,https://www.youtube.com/shorts/AH03WQZkvgI,Gaming,10,12,1.5,0,1,2
+20260429_200237,2026-04-29T20:06:26.323582,gaming_history_8,gaming,8,8,EnM2ZZfzSNU,https://www.youtube.com/shorts/EnM2ZZfzSNU,Gaming,11,13,1.5,0,1,2
+20260429_200237,2026-04-29T20:06:35.006280,gaming_history_8,gaming,8,8,JUaf0b8brhM,https://www.youtube.com/shorts/JUaf0b8brhM,Gaming,12,14,1.5,0,1,2
+20260429_200237,2026-04-29T20:06:43.721663,gaming_history_8,gaming,8,8,uTFQL3dbkfQ,https://www.youtube.com/shorts/uTFQL3dbkfQ,People & Blogs,13,15,1.5,0,1,2
+20260429_200237,2026-04-29T20:07:02.009596,gaming_history_8,gaming,8,8,szN2l4ga07g,https://www.youtube.com/shorts/szN2l4ga07g,People & Blogs,14,17,1.5,0,1,3
+20260429_200237,2026-04-29T20:07:11.486501,gaming_history_8,gaming,8,8,WLsuwTDJc-4,https://www.youtube.com/shorts/WLsuwTDJc-4,Gaming,15,18,1.5,0,1,3
+20260429_200719,2026-04-29T20:09:13.122905,gaming_history_8,gaming,8,8,C4OxJV1uA0g,https://www.youtube.com/shorts/C4OxJV1uA0g,Music,1,1,1.5,0,1,0
+20260429_200719,2026-04-29T20:09:24.175561,gaming_history_8,gaming,8,8,oikjl7vE0Tk,https://www.youtube.com/shorts/oikjl7vE0Tk,Howto & Style,2,2,1.5,0,1,0
+20260429_200719,2026-04-29T20:09:33.357178,gaming_history_8,gaming,8,8,MiVgMu52Hpc,https://www.youtube.com/shorts/MiVgMu52Hpc,Gaming,3,3,1.5,0,1,0
+20260429_200719,2026-04-29T20:09:51.668413,gaming_history_8,gaming,8,8,-NHM-KnQihY,https://www.youtube.com/shorts/-NHM-KnQihY,Gaming,4,5,1.5,0,1,1
+20260429_200719,2026-04-29T20:10:00.812968,gaming_history_8,gaming,8,8,6UPZTn6NLaQ,https://www.youtube.com/shorts/6UPZTn6NLaQ,Entertainment,5,6,1.5,0,1,1
+20260429_200719,2026-04-29T20:10:10.256664,gaming_history_8,gaming,8,8,7r6sHM2vRiY,https://www.youtube.com/shorts/7r6sHM2vRiY,People & Blogs,6,7,1.5,0,1,1
+20260429_200719,2026-04-29T20:10:19.031526,gaming_history_8,gaming,8,8,liC9LYKiFE8,https://www.youtube.com/shorts/liC9LYKiFE8,People & Blogs,7,8,1.5,0,1,1
+20260429_200719,2026-04-29T20:10:38.287628,gaming_history_8,gaming,8,8,RjSbUkQyiao,https://www.youtube.com/shorts/RjSbUkQyiao,Entertainment,8,10,1.5,0,1,2
+20260429_200719,2026-04-29T20:10:47.445418,gaming_history_8,gaming,8,8,QxXOboCt1LQ,https://www.youtube.com/shorts/QxXOboCt1LQ,People & Blogs,9,11,1.5,0,1,2
+20260429_200719,2026-04-29T20:11:06.513984,gaming_history_8,gaming,8,8,GCzVqsFfRMc,https://www.youtube.com/shorts/GCzVqsFfRMc,People & Blogs,10,13,1.5,0,1,3
+20260429_200719,2026-04-29T20:11:15.711409,gaming_history_8,gaming,8,8,6wHgmGqxmL0,https://www.youtube.com/shorts/6wHgmGqxmL0,People & Blogs,11,14,1.5,0,1,3
+20260429_200719,2026-04-29T20:11:24.649796,gaming_history_8,gaming,8,8,TxYjhfxIfKE,https://www.youtube.com/shorts/TxYjhfxIfKE,Gaming,12,15,1.5,0,1,3
+20260429_200719,2026-04-29T20:11:33.728942,gaming_history_8,gaming,8,8,ULxUVl6hZE4,https://www.youtube.com/shorts/ULxUVl6hZE4,Gaming,13,16,1.5,0,1,3
+20260429_200719,2026-04-29T20:11:51.388198,gaming_history_8,gaming,8,8,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,14,18,1.5,0,1,4
+20260429_200719,2026-04-29T20:12:01.254099,gaming_history_8,gaming,8,8,OCKmY8xbMoM,https://www.youtube.com/shorts/OCKmY8xbMoM,Entertainment,15,19,1.5,0,1,4
+20260429_201208,2026-04-29T20:14:13.536571,gaming_history_8,gaming,8,8,dOOFAXe8qeU,https://www.youtube.com/shorts/dOOFAXe8qeU,Education,1,1,1.5,0,1,0
+20260429_201208,2026-04-29T20:14:24.643101,gaming_history_8,gaming,8,8,QiJFjB1xSZQ,https://www.youtube.com/shorts/QiJFjB1xSZQ,People & Blogs,2,2,1.5,0,1,0
+20260429_201208,2026-04-29T20:14:33.688219,gaming_history_8,gaming,8,8,Qqc4OyHSLIk,https://www.youtube.com/shorts/Qqc4OyHSLIk,People & Blogs,3,3,1.5,0,1,0
+20260429_201208,2026-04-29T20:14:51.852803,gaming_history_8,gaming,8,8,MiVgMu52Hpc,https://www.youtube.com/shorts/MiVgMu52Hpc,Gaming,4,5,1.5,0,1,1
+20260429_201208,2026-04-29T20:15:00.514814,gaming_history_8,gaming,8,8,zWdc-DdxUzk,https://www.youtube.com/shorts/zWdc-DdxUzk,Entertainment,5,6,1.5,0,1,1
+20260429_201208,2026-04-29T20:15:18.824057,gaming_history_8,gaming,8,8,ZLsoe3KlVCk,https://www.youtube.com/shorts/ZLsoe3KlVCk,Gaming,6,8,1.5,0,1,2
+20260429_201208,2026-04-29T20:15:28.310692,gaming_history_8,gaming,8,8,Nze7h5KGJTw,https://www.youtube.com/shorts/Nze7h5KGJTw,Entertainment,7,9,1.5,0,1,2
+20260429_201208,2026-04-29T20:15:37.393999,gaming_history_8,gaming,8,8,jpyQa3tLqRI,https://www.youtube.com/shorts/jpyQa3tLqRI,Entertainment,8,10,1.5,0,1,2
+20260429_201208,2026-04-29T20:15:46.245461,gaming_history_8,gaming,8,8,nKfcft1aRjI,https://www.youtube.com/shorts/nKfcft1aRjI,Entertainment,9,11,1.5,0,1,2
+20260429_201208,2026-04-29T20:16:04.721247,gaming_history_8,gaming,8,8,uObQGhZniR0,https://www.youtube.com/shorts/uObQGhZniR0,Gaming,10,13,1.5,0,1,3
+20260429_201208,2026-04-29T20:16:13.709168,gaming_history_8,gaming,8,8,GFv1fVY8n4M,https://www.youtube.com/shorts/GFv1fVY8n4M,People & Blogs,11,14,1.5,0,1,3
+20260429_201208,2026-04-29T20:16:22.353834,gaming_history_8,gaming,8,8,xcE0DPobEgk,https://www.youtube.com/shorts/xcE0DPobEgk,People & Blogs,12,15,1.5,0,1,3
+20260429_201208,2026-04-29T20:16:31.418940,gaming_history_8,gaming,8,8,oIcK77oHH3I,https://www.youtube.com/shorts/oIcK77oHH3I,Gaming,13,16,1.5,0,1,3
+20260429_201208,2026-04-29T20:16:40.570622,gaming_history_8,gaming,8,8,GIhwuLcthz0,https://www.youtube.com/shorts/GIhwuLcthz0,Comedy,14,17,1.5,0,1,3
+20260429_201208,2026-04-29T20:16:59.495251,gaming_history_8,gaming,8,8,pRt9IQS_sAM,https://www.youtube.com/shorts/pRt9IQS_sAM,Entertainment,15,19,1.5,0,1,4
+20260429_201706,2026-04-29T20:19:05.345583,gaming_history_8,gaming,8,8,Uh77XwbiIxg,https://www.youtube.com/shorts/Uh77XwbiIxg,Entertainment,1,1,1.5,0,1,0
+20260429_201706,2026-04-29T20:19:19.303942,gaming_history_8,gaming,8,8,afJEUGKTgFc,https://www.youtube.com/shorts/afJEUGKTgFc,People & Blogs,2,2,1.5,0,1,0
+20260429_201706,2026-04-29T20:19:29.015624,gaming_history_8,gaming,8,8,ThKyCoikG0E,https://www.youtube.com/shorts/ThKyCoikG0E,Music,3,3,1.5,0,1,0
+20260429_201706,2026-04-29T20:19:48.504501,gaming_history_8,gaming,8,8,_YFSa4v7EFM,https://www.youtube.com/shorts/_YFSa4v7EFM,Entertainment,4,5,1.5,0,1,1
+20260429_201706,2026-04-29T20:19:58.295012,gaming_history_8,gaming,8,8,d6pl-DBE3u4,https://www.youtube.com/shorts/d6pl-DBE3u4,Howto & Style,5,6,1.5,0,1,1
+20260429_201706,2026-04-29T20:20:07.740169,gaming_history_8,gaming,8,8,e93jf1uYraU,https://www.youtube.com/shorts/e93jf1uYraU,People & Blogs,6,7,1.5,0,1,1
+20260429_201706,2026-04-29T20:20:17.249752,gaming_history_8,gaming,8,8,dozWx4UD16I,https://www.youtube.com/shorts/dozWx4UD16I,Music,7,8,1.5,0,1,1
+20260429_201706,2026-04-29T20:20:36.862314,gaming_history_8,gaming,8,8,UJUQXzA5t1c,https://www.youtube.com/shorts/UJUQXzA5t1c,People & Blogs,8,10,1.5,0,1,2
+20260429_201706,2026-04-29T20:20:46.311635,gaming_history_8,gaming,8,8,abArPRld_ZU,https://www.youtube.com/shorts/abArPRld_ZU,Entertainment,9,11,1.5,0,1,2
+20260429_201706,2026-04-29T20:20:56.024542,gaming_history_8,gaming,8,8,B3T3htiJmEQ,https://www.youtube.com/shorts/B3T3htiJmEQ,Entertainment,10,12,1.5,0,1,2
+20260429_201706,2026-04-29T20:21:05.527114,gaming_history_8,gaming,8,8,kZAnd19OUjE,https://www.youtube.com/shorts/kZAnd19OUjE,Entertainment,11,13,1.5,0,1,2
+20260429_201706,2026-04-29T20:21:25.622934,gaming_history_8,gaming,8,8,osvC5dCGV-w,https://www.youtube.com/shorts/osvC5dCGV-w,People & Blogs,12,15,1.5,0,1,3
+20260429_201706,2026-04-29T20:21:35.279721,gaming_history_8,gaming,8,8,Ma1TDNbxGW0,https://www.youtube.com/shorts/Ma1TDNbxGW0,Entertainment,13,16,1.5,0,1,3
+20260429_201706,2026-04-29T20:21:44.782111,gaming_history_8,gaming,8,8,e1-pUDrd7_Y,https://www.youtube.com/shorts/e1-pUDrd7_Y,Entertainment,14,17,1.5,0,1,3
+20260429_201706,2026-04-29T20:21:54.539173,gaming_history_8,gaming,8,8,uB_-p4RgbWg,https://www.youtube.com/shorts/uB_-p4RgbWg,People & Blogs,15,18,1.5,0,1,3
+20260429_202201,2026-04-29T20:24:10.802916,gaming_history_8,gaming,8,8,dOOFAXe8qeU,https://www.youtube.com/shorts/dOOFAXe8qeU,Education,1,1,1.5,0,1,0
+20260429_202201,2026-04-29T20:24:25.355167,gaming_history_8,gaming,8,8,aeytjf22Qt8,https://www.youtube.com/shorts/aeytjf22Qt8,Gaming,2,2,1.5,0,1,0
+20260429_202201,2026-04-29T20:24:34.639822,gaming_history_8,gaming,8,8,5rULdXqmZPU,https://www.youtube.com/shorts/5rULdXqmZPU,Comedy,3,3,1.5,0,1,0
+20260429_202201,2026-04-29T20:24:53.665039,gaming_history_8,gaming,8,8,5VDhJbS2sW4,https://www.youtube.com/shorts/5VDhJbS2sW4,Gaming,4,5,1.5,0,1,1
+20260429_202201,2026-04-29T20:25:02.669303,gaming_history_8,gaming,8,8,eWbc6CXF9hY,https://www.youtube.com/shorts/eWbc6CXF9hY,Education,5,6,1.5,0,1,1
+20260429_202201,2026-04-29T20:25:11.262270,gaming_history_8,gaming,8,8,nKfcft1aRjI,https://www.youtube.com/shorts/nKfcft1aRjI,Entertainment,6,7,1.5,0,1,1
+20260429_202201,2026-04-29T20:25:20.074049,gaming_history_8,gaming,8,8,n2xvscY6vUs,https://www.youtube.com/shorts/n2xvscY6vUs,People & Blogs,7,8,1.5,0,1,1
+20260429_202201,2026-04-29T20:25:39.456821,gaming_history_8,gaming,8,8,62ZhsGA_yXE,https://www.youtube.com/shorts/62ZhsGA_yXE,People & Blogs,8,10,1.5,0,1,2
+20260429_202201,2026-04-29T20:25:48.302743,gaming_history_8,gaming,8,8,blCrOC5SOf4,https://www.youtube.com/shorts/blCrOC5SOf4,People & Blogs,9,11,1.5,0,1,2
+20260429_202201,2026-04-29T20:25:57.252536,gaming_history_8,gaming,8,8,gtzCMCFa1QM,https://www.youtube.com/shorts/gtzCMCFa1QM,Gaming,10,12,1.5,0,1,2
+20260429_202201,2026-04-29T20:26:06.107509,gaming_history_8,gaming,8,8,ZgB6aMQqI2A,https://www.youtube.com/shorts/ZgB6aMQqI2A,People & Blogs,11,13,1.5,0,1,2
+20260429_202201,2026-04-29T20:26:15.719713,gaming_history_8,gaming,8,8,A_hbIDK09LI,https://www.youtube.com/shorts/A_hbIDK09LI,Comedy,12,14,1.5,0,1,2
+20260429_202201,2026-04-29T20:26:34.061790,gaming_history_8,gaming,8,8,1NWAVI5Psug,https://www.youtube.com/shorts/1NWAVI5Psug,Sports,13,16,1.5,0,1,3
+20260429_202201,2026-04-29T20:26:42.811595,gaming_history_8,gaming,8,8,FLWp_SDb4p8,https://www.youtube.com/shorts/FLWp_SDb4p8,Education,14,17,1.5,0,1,3
+20260429_202201,2026-04-29T20:26:52.254052,gaming_history_8,gaming,8,8,mdwVqMxSYvw,https://www.youtube.com/shorts/mdwVqMxSYvw,Entertainment,15,18,1.5,0,1,3
+20260429_202659,2026-04-29T20:29:00.900345,gaming_history_8,gaming,8,8,lVkDhH8CZ4k,https://www.youtube.com/shorts/lVkDhH8CZ4k,Gaming,1,1,1.5,0,1,0
+20260429_202659,2026-04-29T20:29:12.126435,gaming_history_8,gaming,8,8,IPZSnZQ7aVE,https://www.youtube.com/shorts/IPZSnZQ7aVE,Entertainment,2,2,1.5,0,1,0
+20260429_202659,2026-04-29T20:29:20.799717,gaming_history_8,gaming,8,8,yQWcLH-iBlE,https://www.youtube.com/shorts/yQWcLH-iBlE,Entertainment,3,3,1.5,0,1,0
+20260429_202659,2026-04-29T20:29:40.302067,gaming_history_8,gaming,8,8,8o_Zgvglsv4,https://www.youtube.com/shorts/8o_Zgvglsv4,Gaming,4,5,1.5,0,1,1
+20260429_202659,2026-04-29T20:29:50.429909,gaming_history_8,gaming,8,8,85KUzBRewWk,https://www.youtube.com/shorts/85KUzBRewWk,People & Blogs,5,6,1.5,0,1,1
+20260429_202659,2026-04-29T20:29:59.698266,gaming_history_8,gaming,8,8,j5Qr8OtSTJ0,https://www.youtube.com/shorts/j5Qr8OtSTJ0,Entertainment,6,7,1.5,0,1,1
+20260429_202659,2026-04-29T20:30:09.060066,gaming_history_8,gaming,8,8,76cxzvzfORI,https://www.youtube.com/shorts/76cxzvzfORI,Entertainment,7,8,1.5,0,1,1
+20260429_202659,2026-04-29T20:30:28.999303,gaming_history_8,gaming,8,8,0X_l-pOzfK0,https://www.youtube.com/shorts/0X_l-pOzfK0,Gaming,8,10,1.5,0,1,2
+20260429_202659,2026-04-29T20:30:39.853255,gaming_history_8,gaming,8,8,GpSyqub0v1o,https://www.youtube.com/shorts/GpSyqub0v1o,Entertainment,9,11,1.5,0,1,2
+20260429_202659,2026-04-29T20:30:59.754922,gaming_history_8,gaming,8,8,T1IN5SAjteE,https://www.youtube.com/shorts/T1IN5SAjteE,Gaming,10,13,1.5,0,1,3
+20260429_202659,2026-04-29T20:31:09.307051,gaming_history_8,gaming,8,8,ResPrv5sZmU,https://www.youtube.com/shorts/ResPrv5sZmU,Gaming,11,14,1.5,0,1,3
+20260429_202659,2026-04-29T20:31:19.033349,gaming_history_8,gaming,8,8,qXSHDRwOE-Y,https://www.youtube.com/shorts/qXSHDRwOE-Y,People & Blogs,12,15,1.5,0,1,3
+20260429_202659,2026-04-29T20:31:37.766643,gaming_history_8,gaming,8,8,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,13,17,1.5,0,1,4
+20260429_202659,2026-04-29T20:31:47.103868,gaming_history_8,gaming,8,8,fYeBxoY1Ixg,https://www.youtube.com/shorts/fYeBxoY1Ixg,People & Blogs,14,18,1.5,0,1,4
+20260429_202659,2026-04-29T20:32:07.111523,gaming_history_8,gaming,8,8,oIcK77oHH3I,https://www.youtube.com/shorts/oIcK77oHH3I,Gaming,15,20,1.5,0,1,5
+20260429_203214,2026-04-29T20:34:13.267110,gaming_history_8,gaming,8,8,vG0XZAxhtOc,https://www.youtube.com/shorts/vG0XZAxhtOc,Entertainment,1,1,1.5,0,1,0
+20260429_203214,2026-04-29T20:34:29.993252,gaming_history_8,gaming,8,8,oikjl7vE0Tk,https://www.youtube.com/shorts/oikjl7vE0Tk,Howto & Style,2,2,1.5,0,1,0
+20260429_203214,2026-04-29T20:34:39.788654,gaming_history_8,gaming,8,8,xVLjRnIF-xs,https://www.youtube.com/shorts/xVLjRnIF-xs,Entertainment,3,3,1.5,0,1,0
+20260429_203214,2026-04-29T20:34:59.456811,gaming_history_8,gaming,8,8,6hq7ppLdcBQ,https://www.youtube.com/shorts/6hq7ppLdcBQ,Science & Technology,4,5,1.5,0,1,1
+20260429_203214,2026-04-29T20:35:09.276015,gaming_history_8,gaming,8,8,rpfuk-7UsxU,https://www.youtube.com/shorts/rpfuk-7UsxU,People & Blogs,5,6,1.5,0,1,1
+20260429_203214,2026-04-29T20:35:19.002597,gaming_history_8,gaming,8,8,pyDU1l-phwU,https://www.youtube.com/shorts/pyDU1l-phwU,People & Blogs,6,7,1.5,0,1,1
+20260429_203214,2026-04-29T20:35:28.906250,gaming_history_8,gaming,8,8,5CTZD95hXvY,https://www.youtube.com/shorts/5CTZD95hXvY,Entertainment,7,8,1.5,0,1,1
+20260429_203214,2026-04-29T20:35:50.040354,gaming_history_8,gaming,8,8,-90qK9K_9BU,https://www.youtube.com/shorts/-90qK9K_9BU,People & Blogs,8,10,1.5,0,1,2
+20260429_203214,2026-04-29T20:35:59.666304,gaming_history_8,gaming,8,8,lobZhYJRH1M,https://www.youtube.com/shorts/lobZhYJRH1M,Entertainment,9,11,1.5,0,1,2
+20260429_203214,2026-04-29T20:36:09.457277,gaming_history_8,gaming,8,8,B3T3htiJmEQ,https://www.youtube.com/shorts/B3T3htiJmEQ,Entertainment,10,12,1.5,0,1,2
+20260429_203214,2026-04-29T20:36:19.234606,gaming_history_8,gaming,8,8,NGB5JLisjTE,https://www.youtube.com/shorts/NGB5JLisjTE,Gaming,11,13,1.5,0,1,2
+20260429_203214,2026-04-29T20:36:40.300739,gaming_history_8,gaming,8,8,d64VGgpbSWE,https://www.youtube.com/shorts/d64VGgpbSWE,Entertainment,12,15,1.5,0,1,3
+20260429_203214,2026-04-29T20:36:50.335950,gaming_history_8,gaming,8,8,vZzd3VTEGxY,https://www.youtube.com/shorts/vZzd3VTEGxY,People & Blogs,13,16,1.5,0,1,3
+20260429_203214,2026-04-29T20:37:00.012324,gaming_history_8,gaming,8,8,ExbDkDWttX4,https://www.youtube.com/shorts/ExbDkDWttX4,Entertainment,14,17,1.5,0,1,3
+20260429_203214,2026-04-29T20:37:09.356584,gaming_history_8,gaming,8,8,BB3toGkkae0,https://www.youtube.com/shorts/BB3toGkkae0,Entertainment,15,18,1.5,0,1,3
+20260429_203716,2026-04-29T20:39:13.205665,gaming_history_8,gaming,8,8,ZYREziKPSqo,https://www.youtube.com/shorts/ZYREziKPSqo,Sports,1,1,1.5,0,1,0
+20260429_203716,2026-04-29T20:39:25.008762,gaming_history_8,gaming,8,8,tZzyZlLWByQ,https://www.youtube.com/shorts/tZzyZlLWByQ,People & Blogs,2,2,1.5,0,1,0
+20260429_203716,2026-04-29T20:39:35.782193,gaming_history_8,gaming,8,8,rflMHo9nsXw,https://www.youtube.com/shorts/rflMHo9nsXw,People & Blogs,3,3,1.5,0,1,0
+20260429_203716,2026-04-29T20:39:55.798561,gaming_history_8,gaming,8,8,Vf17MwIInMk,https://www.youtube.com/shorts/Vf17MwIInMk,Sports,4,5,1.5,0,1,1
+20260429_203716,2026-04-29T20:40:04.939106,gaming_history_8,gaming,8,8,oT-gfy-IHxA,https://www.youtube.com/shorts/oT-gfy-IHxA,People & Blogs,5,6,1.5,0,1,1
+20260429_203716,2026-04-29T20:40:14.277217,gaming_history_8,gaming,8,8,oikjl7vE0Tk,https://www.youtube.com/shorts/oikjl7vE0Tk,Howto & Style,6,7,1.5,0,1,1
+20260429_203716,2026-04-29T20:40:23.466169,gaming_history_8,gaming,8,8,8E-GkW7jptY,https://www.youtube.com/shorts/8E-GkW7jptY,People & Blogs,7,8,1.5,0,1,1
+20260429_203716,2026-04-29T20:40:42.020205,gaming_history_8,gaming,8,8,6zxDn3J7px4,https://www.youtube.com/shorts/6zxDn3J7px4,Gaming,8,10,1.5,0,1,2
+20260429_203716,2026-04-29T20:40:51.453708,gaming_history_8,gaming,8,8,JWwBCfZ5NHA,https://www.youtube.com/shorts/JWwBCfZ5NHA,Comedy,9,11,1.5,0,1,2
+20260429_203716,2026-04-29T20:41:00.624456,gaming_history_8,gaming,8,8,SGcM1hUVLZw,https://www.youtube.com/shorts/SGcM1hUVLZw,Gaming,10,12,1.5,0,1,2
+20260429_203716,2026-04-29T20:41:09.891418,gaming_history_8,gaming,8,8,1hnJ3JHVY1o,https://www.youtube.com/shorts/1hnJ3JHVY1o,Entertainment,11,13,1.5,0,1,2
+20260429_203716,2026-04-29T20:41:29.312942,gaming_history_8,gaming,8,8,QTueNkAcqaU,https://www.youtube.com/shorts/QTueNkAcqaU,People & Blogs,12,15,1.5,0,1,3
+20260429_203716,2026-04-29T20:41:38.358306,gaming_history_8,gaming,8,8,pZLE9csZZFc,https://www.youtube.com/shorts/pZLE9csZZFc,Gaming,13,16,1.5,0,1,3
+20260429_203716,2026-04-29T20:41:47.561472,gaming_history_8,gaming,8,8,qvIaNoy1jBg,https://www.youtube.com/shorts/qvIaNoy1jBg,Gaming,14,17,1.5,0,1,3
+20260429_203716,2026-04-29T20:41:57.061011,gaming_history_8,gaming,8,8,twkvToDKOeM,https://www.youtube.com/shorts/twkvToDKOeM,People & Blogs,15,18,1.5,0,1,3
+20260429_204205,2026-04-29T20:44:06.915278,gaming_history_8,gaming,8,8,dOOFAXe8qeU,https://www.youtube.com/shorts/dOOFAXe8qeU,Education,1,1,1.5,0,1,0
+20260429_204205,2026-04-29T20:44:18.022878,gaming_history_8,gaming,8,8,8RxS21eZkfw,https://www.youtube.com/shorts/8RxS21eZkfw,Gaming,2,2,1.5,0,1,0
+20260429_204205,2026-04-29T20:44:27.215181,gaming_history_8,gaming,8,8,DAcsVRkPSNM,https://www.youtube.com/shorts/DAcsVRkPSNM,People & Blogs,3,3,1.5,0,1,0
+20260429_204205,2026-04-29T20:44:46.125049,gaming_history_8,gaming,8,8,lodHq4wjnhs,https://www.youtube.com/shorts/lodHq4wjnhs,People & Blogs,4,5,1.5,0,1,1
+20260429_204205,2026-04-29T20:44:55.384954,gaming_history_8,gaming,8,8,gfqObS0jVCw,https://www.youtube.com/shorts/gfqObS0jVCw,People & Blogs,5,6,1.5,0,1,1
+20260429_204205,2026-04-29T20:45:14.827115,gaming_history_8,gaming,8,8,RjSbUkQyiao,https://www.youtube.com/shorts/RjSbUkQyiao,Entertainment,6,8,1.5,0,1,2
+20260429_204205,2026-04-29T20:45:24.429080,gaming_history_8,gaming,8,8,qIEaaGoCquE,https://www.youtube.com/shorts/qIEaaGoCquE,Entertainment,7,9,1.5,0,1,2
+20260429_204205,2026-04-29T20:45:34.444663,gaming_history_8,gaming,8,8,PZ8uiLrOwOU,https://www.youtube.com/shorts/PZ8uiLrOwOU,Gaming,8,10,1.5,0,1,2
+20260429_204205,2026-04-29T20:45:47.616733,gaming_history_8,gaming,8,8,8ZfWSVB7ppU,https://www.youtube.com/shorts/8ZfWSVB7ppU,Comedy,9,11,1.5,0,1,2
+20260429_204205,2026-04-29T20:46:08.717257,gaming_history_8,gaming,8,8,FG2y3Sm3jyw,https://www.youtube.com/shorts/FG2y3Sm3jyw,Gaming,10,13,1.5,0,1,3
+20260429_204205,2026-04-29T20:46:18.807853,gaming_history_8,gaming,8,8,skEGafKHQC8,https://www.youtube.com/shorts/skEGafKHQC8,People & Blogs,11,14,1.5,0,1,3
+20260429_204205,2026-04-29T20:46:28.650713,gaming_history_8,gaming,8,8,tEAJmTWdknY,https://www.youtube.com/shorts/tEAJmTWdknY,People & Blogs,12,15,1.5,0,1,3
+20260429_204205,2026-04-29T20:46:38.961113,gaming_history_8,gaming,8,8,xCIFV6-MOeg,https://www.youtube.com/shorts/xCIFV6-MOeg,Entertainment,13,16,1.5,0,1,3
+20260429_204205,2026-04-29T20:46:58.994477,gaming_history_8,gaming,8,8,ZLsoe3KlVCk,https://www.youtube.com/shorts/ZLsoe3KlVCk,Gaming,14,18,1.5,0,1,4
+20260429_204205,2026-04-29T20:47:09.125871,gaming_history_8,gaming,8,8,ZWQdBbQq5SE,https://www.youtube.com/shorts/ZWQdBbQq5SE,Entertainment,15,19,1.5,0,1,4
+20260429_204717,2026-04-29T20:49:21.048147,gaming_history_8,gaming,8,8,ocam94clxGY,https://www.youtube.com/shorts/ocam94clxGY,Gaming,1,1,1.5,0,1,0
+20260429_204717,2026-04-29T20:49:32.604151,gaming_history_8,gaming,8,8,QUJwxgi8dY0,https://www.youtube.com/shorts/QUJwxgi8dY0,People & Blogs,2,2,1.5,0,1,0
+20260429_204717,2026-04-29T20:49:42.571879,gaming_history_8,gaming,8,8,5VDhJbS2sW4,https://www.youtube.com/shorts/5VDhJbS2sW4,Gaming,3,3,1.5,0,1,0
+20260429_204717,2026-04-29T20:50:03.083276,gaming_history_8,gaming,8,8,Iq2KqpRPLbw,https://www.youtube.com/shorts/Iq2KqpRPLbw,People & Blogs,4,5,1.5,0,1,1
+20260429_204717,2026-04-29T20:50:12.797277,gaming_history_8,gaming,8,8,rAVbD9nMhmE,https://www.youtube.com/shorts/rAVbD9nMhmE,Entertainment,5,6,1.5,0,1,1
+20260429_204717,2026-04-29T20:50:32.195015,gaming_history_8,gaming,8,8,b5pmhn3D46c,https://www.youtube.com/shorts/b5pmhn3D46c,Film & Animation,6,8,1.5,0,1,2
+20260429_204717,2026-04-29T20:50:41.988983,gaming_history_8,gaming,8,8,7T2OZtXkTxk,https://www.youtube.com/shorts/7T2OZtXkTxk,Entertainment,7,9,1.5,0,1,2
+20260429_204717,2026-04-29T20:50:51.501166,gaming_history_8,gaming,8,8,QdjO0TLI5IM,https://www.youtube.com/shorts/QdjO0TLI5IM,Entertainment,8,10,1.5,0,1,2
+20260429_204717,2026-04-29T20:51:01.372503,gaming_history_8,gaming,8,8,0kC73SiUjfw,https://www.youtube.com/shorts/0kC73SiUjfw,Entertainment,9,11,1.5,0,1,2
+20260429_204717,2026-04-29T20:51:20.920749,gaming_history_8,gaming,8,8,5DLCoSeSxr4,https://www.youtube.com/shorts/5DLCoSeSxr4,Gaming,10,13,1.5,0,1,3
+20260429_204717,2026-04-29T20:51:30.509454,gaming_history_8,gaming,8,8,bNLECySn7eY,https://www.youtube.com/shorts/bNLECySn7eY,Entertainment,11,14,1.5,0,1,3
+20260429_204717,2026-04-29T20:51:40.167497,gaming_history_8,gaming,8,8,Ceh_UqIGet8,https://www.youtube.com/shorts/Ceh_UqIGet8,Entertainment,12,15,1.5,0,1,3
+20260429_204717,2026-04-29T20:51:49.598868,gaming_history_8,gaming,8,8,o7GDPNZHwnY,https://www.youtube.com/shorts/o7GDPNZHwnY,Entertainment,13,16,1.5,0,1,3
+20260429_204717,2026-04-29T20:52:09.014656,gaming_history_8,gaming,8,8,Xn7I7VOnVOA,https://www.youtube.com/shorts/Xn7I7VOnVOA,Science & Technology,14,18,1.5,0,1,4
+20260429_204717,2026-04-29T20:52:18.513672,gaming_history_8,gaming,8,8,2-KibCRd1t8,https://www.youtube.com/shorts/2-KibCRd1t8,People & Blogs,15,19,1.5,0,1,4

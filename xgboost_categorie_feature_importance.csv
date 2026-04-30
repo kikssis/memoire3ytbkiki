@@ -1,0 +1,133 @@
+﻿feature,importance
+cat__target_category_Sports,0.03616537
+cat__target_category_Gaming,0.02947801
+cat__history_1_Pets & Animals,0.014627779
+cat__target_category_News & Politics,0.013858541
+cat__previous_category_Pets & Animals,0.011719948
+cat__previous_2_category_Pets & Animals,0.01167086
+cat__history_2_Film & Animation,0.011407642
+cat__condition_sport_history_8,0.010730405
+cat__history_1_Education,0.010424646
+cat__dominant_last_3_Education,0.010325564
+cat__condition_sport_history_3,0.010320502
+cat__condition_news_history_1,0.01000421
+cat__previous_2_category_Comedy,0.009408007
+cat__condition_gaming_history_1,0.009331209
+cat__history_2_Comedy,0.009324535
+cat__previous_2_category_Film & Animation,0.009216321
+cat__history_1_Gaming,0.009213638
+cat__previous_category_Education,0.009147991
+cat__history_3_Howto & Style,0.009132456
+cat__category_clean_Howto & Style,0.009119391
+cat__category_clean_Pets & Animals,0.009082862
+cat__target_category_Science & Technology,0.009063074
+cat__condition_gaming_history_3,0.008981011
+cat__previous_category_Gaming,0.008919663
+cat__history_2_Gaming,0.008739341
+cat__history_2_Science & Technology,0.008727569
+cat__history_3_Comedy,0.008572367
+cat__dominant_last_3_Gaming,0.00854341
+cat__condition_science_history_1,0.008512299
+cat__history_3_Sports,0.008490175
+cat__condition_gaming_history_8,0.008411684
+cat__condition_sport_history_1,0.0083138
+cat__history_2_Music,0.008300921
+cat__history_2_Sports,0.0082742
+cat__history_3_Gaming,0.008231811
+cat__category_clean_Film & Animation,0.008196267
+cat__category_clean_Comedy,0.008103608
+num__repeat_last_2,0.008102846
+cat__history_1_Autos & Vehicles,0.008070453
+cat__previous_2_category_Gaming,0.008064597
+cat__previous_2_category_Science & Technology,0.007979858
+cat__condition_neutral,0.007976987
+cat__history_3_Unknown,0.007908996
+cat__history_1_Comedy,0.00787921
+cat__history_2_Pets & Animals,0.007863192
+cat__history_1_Film & Animation,0.00782436
+cat__condition_news_history_8,0.0077954764
+cat__previous_2_category_Sports,0.007778082
+cat__history_1_Howto & Style,0.0077148885
+num__target_match_score,0.0077044424
+cat__category_clean_Sports,0.007668788
+cat__previous_2_category_Entertainment,0.007656225
+cat__previous_2_category_Education,0.0076488317
+cat__dominant_last_3_Entertainment,0.0076343995
+cat__history_2_Unknown,0.0076335394
+num__depth,0.0076132547
+num__same_as_previous,0.0075713294
+cat__history_3_Entertainment,0.007556379
+cat__dominant_last_3_Howto & Style,0.007551712
+num__history_video_count,0.0074804584
+cat__previous_category_Science & Technology,0.0074781403
+cat__history_1_People & Blogs,0.0074718255
+cat__dominant_last_3_Film & Animation,0.0074641583
+cat__history_3_Film & Animation,0.0074637737
+cat__previous_category_Comedy,0.007430422
+cat__previous_2_category_People & Blogs,0.0074208886
+cat__history_1_Unknown,0.0074092005
+cat__previous_category_Entertainment,0.007401032
+cat__dominant_last_3_People & Blogs,0.007329631
+cat__category_clean_Gaming,0.0073295864
+cat__previous_2_category_Howto & Style,0.007276358
+cat__history_2_Entertainment,0.0072349166
+cat__previous_category_Sports,0.0071996097
+cat__previous_category_People & Blogs,0.0071878443
+cat__dominant_last_3_Comedy,0.0071763527
+cat__category_clean_People & Blogs,0.007153968
+num__history_intensity,0.0071418714
+num__repeat_last_3,0.0071309605
+cat__history_2_People & Blogs,0.007103909
+cat__condition_science_history_3,0.00704047
+cat__category_clean_Science & Technology,0.0070240507
+cat__history_3_Travel & Events,0.0070078885
+cat__history_3_People & Blogs,0.0069728144
+cat__condition_science_history_8,0.0069319266
+cat__category_clean_Entertainment,0.006916212
+cat__history_1_Science & Technology,0.0068970053
+cat__category_clean_Education,0.006863511
+cat__previous_category_Film & Animation,0.006815194
+cat__target_category_neutral,0.006799549
+cat__category_clean_Other,0.006792255
+cat__category_clean_Music,0.0067793364
+cat__previous_category_Howto & Style,0.0067276685
+cat__history_1_Entertainment,0.0067227203
+cat__dominant_last_3_Unknown,0.0067148246
+num__recent_diversity,0.006707338
+cat__history_2_Education,0.00670632
+cat__previous_category_Autos & Vehicles,0.0066756275
+cat__previous_2_category_Unknown,0.0066708457
+cat__history_3_Music,0.006574636
+cat__previous_category_Unknown,0.0065133646
+cat__history_3_Education,0.0064615575
+cat__previous_2_category_Music,0.006441269
+cat__dominant_last_3_Sports,0.0063817413
+cat__condition_news_history_3,0.006324588
+cat__history_2_News & Politics,0.006274758
+cat__history_2_Howto & Style,0.0062598637
+cat__dominant_last_3_Autos & Vehicles,0.0062589077
+cat__history_3_Science & Technology,0.00621113
+cat__history_3_Pets & Animals,0.006152434
+cat__previous_2_category_Autos & Vehicles,0.006108427
+cat__history_1_Music,0.005902891
+cat__previous_category_Music,0.005866583
+cat__history_1_Sports,0.0057601333
+cat__previous_2_category_News & Politics,0.0056425147
+cat__history_2_Autos & Vehicles,0.0053474833
+cat__history_3_News & Politics,0.00532789
+cat__dominant_last_3_Music,0.005091131
+cat__category_clean_News & Politics,0.004750354
+cat__history_1_Travel & Events,0.0045183063
+cat__previous_category_Travel & Events,0.004476851
+cat__previous_category_News & Politics,0.004288135
+cat__dominant_last_3_News & Politics,0.004134855
+cat__previous_category_Nonprofits & Activism,0.0038358269
+cat__history_1_News & Politics,0.003632766
+cat__history_1_Nonprofits & Activism,0.0034137985
+cat__previous_2_category_Travel & Events,0.00239404
+cat__history_2_Travel & Events,0.0023143722
+cat__previous_2_category_Nonprofits & Activism,0.0
+cat__history_3_Nonprofits & Activism,0.0
+cat__history_3_Autos & Vehicles,0.0
+cat__history_2_Nonprofits & Activism,0.0
+cat__dominant_last_3_Pets & Animals,0.0
