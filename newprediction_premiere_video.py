@@ -15,7 +15,9 @@ from xgboost import XGBClassifier
 # 1. CHARGER DATASET
 # ===============================
 
-df = pd.read_csv("dataset_clean.csv")
+df = pd.read_csv(
+    r"C:\Users\defre\OneDrive\Desktop\memoire3_youtube\dataset_clean_2.csv"
+)
 
 print("\nDataset chargé :", len(df))
 
@@ -24,69 +26,43 @@ print("\nDataset chargé :", len(df))
 # 2. PREMIÈRE VIDÉO PAR SESSION
 # ===============================
 
-# Trier les vidéos par session et par profondeur
 df = df.sort_values(by=["session_id", "depth"]).reset_index(drop=True)
 
-# Garder la première vidéo de chaque session
 data = df.groupby("session_id").first().reset_index()
 
-# Enlever les catégories inconnues
 data = data[data["category_clean"] != "Unknown"].copy()
 
 print("\nPremières vidéos avant filtre classes rares :", len(data))
-
 print("\nRépartition initiale des catégories :")
 print(data["category_clean"].value_counts())
 
 
 # ===============================
-# 3. SUPPRESSION DES CLASSES TROP RARES
+# 3. SUPPRESSION DES CLASSES RARES
 # ===============================
 
-# On garde seulement les catégories avec au moins 5 observations
-# Cela permet d'utiliser stratify=y plus proprement
 counts = data["category_clean"].value_counts()
 valid_classes = counts[counts >= 5].index
 
 data = data[data["category_clean"].isin(valid_classes)].copy()
 
 print("\nPremières vidéos utilisées après filtre classes rares :", len(data))
-
 print("\nRépartition finale des catégories :")
 print(data["category_clean"].value_counts())
 
-print("\nDistribution finale des catégories en proportion :")
+print("\nDistribution finale :")
 print(data["category_clean"].value_counts(normalize=True).round(3))
 
 
 # ===============================
-# 4. BASELINE GLOBALE DESCRIPTIVE
+# 4. VARIABLES DU MODÈLE
 # ===============================
-
-global_majority_class = data["category_clean"].value_counts().idxmax()
-global_baseline = data["category_clean"].value_counts(normalize=True).max()
-
-print("\n==============================")
-print("BASELINE GLOBALE DESCRIPTIVE")
-print("==============================")
-print("Classe majoritaire globale :", global_majority_class)
-print("Baseline globale :", round(global_baseline, 3))
-
-
-# ===============================
-# 5. FEATURES SANS FUITE D'INFORMATION
-# ===============================
-
-# Attention :
-# is_current_target_category est supprimée car elle dépend de la catégorie actuelle,
-# donc elle donne indirectement la réponse au modèle.
 
 features = [
     "condition",
     "history_category",
     "history_intensity",
-    "history_video_count",
-    "target_category"
+    "history_video_count"
 ]
 
 X = data[features].reset_index(drop=True)
@@ -94,18 +70,21 @@ y_raw = data["category_clean"].reset_index(drop=True)
 
 
 # ===============================
-# 6. ENCODAGE TARGET
+# 5. ENCODAGE TARGET
 # ===============================
 
 label_encoder = LabelEncoder()
 y = label_encoder.fit_transform(y_raw)
+
+print("\nFeatures utilisées :")
+print(features)
 
 print("\nClasses prédites :")
 print(list(label_encoder.classes_))
 
 
 # ===============================
-# 7. SPLIT TRAIN / TEST STRATIFIÉ
+# 6. SPLIT TRAIN / TEST STRATIFIÉ
 # ===============================
 
 X_train, X_test, y_train, y_test = train_test_split(
@@ -130,13 +109,12 @@ print(pd.Series(y_test_labels).value_counts(normalize=True).round(3))
 
 
 # ===============================
-# 8. PREPROCESSING
+# 7. PREPROCESSING
 # ===============================
 
 cat_features = [
     "condition",
-    "history_category",
-    "target_category"
+    "history_category"
 ]
 
 num_features = [
@@ -159,7 +137,7 @@ preprocessor = ColumnTransformer(
 
 
 # ===============================
-# 9. MODÈLE XGBOOST
+# 8. MODÈLE XGBOOST
 # ===============================
 
 model = Pipeline([
@@ -178,27 +156,26 @@ model = Pipeline([
 
 
 # ===============================
-# 10. ENTRAÎNEMENT
+# 9. ENTRAÎNEMENT
 # ===============================
 
 model.fit(X_train, y_train)
 
 
 # ===============================
-# 11. PRÉDICTIONS
+# 10. PRÉDICTIONS
 # ===============================
 
 pred = model.predict(X_test)
-
 pred_labels = label_encoder.inverse_transform(pred)
 
 
 # ===============================
-# 12. RÉSULTATS DU MODÈLE
+# 11. RÉSULTATS DU MODÈLE
 # ===============================
 
 print("\n==============================")
-print("MODÈLE PREMIÈRE VIDÉO - XGBOOST")
+print("MODÈLE PREMIÈRE VIDÉO - XGBOOST FINAL")
 print("==============================")
 
 model_accuracy = accuracy_score(y_test_labels, pred_labels)
@@ -218,16 +195,15 @@ print(confusion_matrix(y_test_labels, pred_labels))
 
 
 # ===============================
-# 13. BASELINE SUR LE JEU DE TEST
+# 12. BASELINE TEST
 # ===============================
 
-# Classe majoritaire apprise sur le train
 most_common_train_encoded = pd.Series(y_train).mode()[0]
-most_common_train_label = label_encoder.inverse_transform([most_common_train_encoded])[0]
+most_common_train_label = label_encoder.inverse_transform(
+    [most_common_train_encoded]
+)[0]
 
-# Baseline : prédire toujours cette classe sur le test
 baseline_pred = [most_common_train_label] * len(y_test_labels)
-
 baseline_accuracy = accuracy_score(y_test_labels, baseline_pred)
 
 print("\n==============================")
@@ -241,26 +217,36 @@ print(round(model_accuracy - baseline_accuracy, 3))
 
 
 # ===============================
-# 14. BASELINE SI ON PRÉDIT PEOPLE & BLOGS
+# 13. BASELINE PEOPLE & BLOGS
 # ===============================
 
 people_baseline_pred = ["People & Blogs"] * len(y_test_labels)
-people_baseline_accuracy = accuracy_score(y_test_labels, people_baseline_pred)
+people_baseline_accuracy = accuracy_score(
+    y_test_labels,
+    people_baseline_pred
+)
 
 print("\n==============================")
 print("BASELINE PEOPLE & BLOGS SUR TEST")
 print("==============================")
-print("Accuracy si on prédit toujours People & Blogs :",
-      round(people_baseline_accuracy, 3))
+print(
+    "Accuracy si on prédit toujours People & Blogs :",
+    round(people_baseline_accuracy, 3)
+)
 
 
 # ===============================
-# 15. SAUVEGARDE
+# 14. SAUVEGARDE
 # ===============================
 
-joblib.dump(model, "xgboost_first_video_clean.pkl")
-joblib.dump(label_encoder, "label_encoder_first_video_clean.pkl")
+try:
+    joblib.dump(model, "xgboost_first_video_final_model.pkl")
+    joblib.dump(label_encoder, "xgboost_first_video_final_label_encoder.pkl")
 
-print("\nModèle sauvegardé :")
-print("- xgboost_first_video_clean.pkl")
-print("- label_encoder_first_video_clean.pkl")
+    print("\nModèle sauvegardé :")
+    print("- xgboost_first_video_final_model.pkl")
+    print("- xgboost_first_video_final_label_encoder.pkl")
+
+except PermissionError:
+    print("\nSauvegarde impossible : fichier .pkl verrouillé.")
+    print("Les résultats affichés restent valides.")
